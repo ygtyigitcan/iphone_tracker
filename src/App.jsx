@@ -65,7 +65,7 @@ const AppContent = () => {
           <div className="flex-1"></div>
           <div className="flex flex-col items-center text-center flex-1">
             <div className="flex items-center justify-center">
-              <img src="/data/chats/i5e1p/workspace/uploads/a3d9e604-f30d-4844-b373-939f09901d34-72511.png" alt="Logo" className="h-10 w-auto mr-3" />
+              <img src="/yazarlogo.png" alt="Logo" className="h-10 w-auto mr-3" />
               <h1 className={`text-3xl font-bold ${darkMode ? 'text-white' : 'text-gray-800'}`}>Yazar İletisim Iphone Fiyat Takibi</h1>
             </div>
             <p className={`mt-1 ${darkMode ? 'text-gray-300' : 'text-gray-600'}`}>
