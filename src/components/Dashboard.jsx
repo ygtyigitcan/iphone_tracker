@@ -1,9 +1,9 @@
+import productData from "../data/config.json"; // ✅ Doğru
 import { useState, useEffect } from 'react';
 import ProductItem from './ProductItem';
 import PriceAlert from './PriceAlert';
 import PriceHistory from './PriceHistory';
 import PriceComparison from './PriceComparison';
-import { getTrackingProducts } from '../utils/mockData';
 import { saveUserPreferences } from '../services/localStorage';
 
 function Dashboard({ activeSite, activeModel, userPreferences, darkMode = false, onOpenNotificationSettings, onOpenAlert, onOpenHistory, onOpenComparison }) {
@@ -20,7 +20,7 @@ function Dashboard({ activeSite, activeModel, userPreferences, darkMode = false,
     const fetchProducts = () => {
       setLoading(true);
       setTimeout(() => {
-        let filteredProducts = getTrackingProducts();
+        let filteredProducts = productData;
         
         if (activeSite !== 'all') {
           filteredProducts = filteredProducts.filter(product => 

@@ -1,5 +1,5 @@
+import productData from '../data/config.json'; // dosya src/data/config.json içinde
 import React, { useState, useEffect } from 'react';
-import { getTrackingProducts } from '../utils/mockData';
 import ProductItem from './ProductItem';
 import { loadUserPreferences } from '../services/localStorage';
 
@@ -16,7 +16,7 @@ function Favorites({ darkMode, onOpenAlert, onOpenHistory, onOpenComparison }) {
     // Fetch all products
     setLoading(true);
     const fetchFavorites = () => {
-      const allProducts = getTrackingProducts();
+      const allProducts = productData;
       // Filter products based on the favoriteProducts array in preferences
       const favoritedProducts = allProducts.filter(product => 
         preferences.favoriteProducts && 
