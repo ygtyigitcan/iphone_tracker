@@ -20,7 +20,7 @@ function Dashboard({ activeSite, activeModel, userPreferences, darkMode = false,
     const fetchProducts = () => {
       setLoading(true);
       setTimeout(() => {
-        let filteredProducts = productData;
+        let filteredProducts = productData; // ✅ ürünlere ulaş
         
         if (activeSite !== 'all') {
           filteredProducts = filteredProducts.filter(product => 
