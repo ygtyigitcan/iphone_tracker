@@ -5,8 +5,7 @@ const PriceList = () => {
     const [error, setError] = useState(null);
 
     useEffect(() => {
-        // API'den veri almak için fetch kullanıyoruz
-        fetch('http://185.149.103.159:5000/api/prices')  // Backend API URL'si
+        fetch('http://185.149.103.159:5000/api/prices')  // API URL'si
             .then((response) => response.json())
             .then((data) => setProducts(data))  // Veriyi set ediyoruz
             .catch((error) => setError(error.message));  // Hata olursa ekrana yazdırıyoruz
@@ -21,7 +20,6 @@ const PriceList = () => {
         <div>
             <h1>Fiyat Listesi</h1>
             <ul>
-                {/* Ürünleri döngü ile listeliyoruz */}
                 {products.map((product) => (
                     <li key={product.name}>
                         <strong>{product.name}</strong>: {product.currentPrice} TL

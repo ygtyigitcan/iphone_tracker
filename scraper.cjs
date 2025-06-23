@@ -28,7 +28,7 @@ const updatePrices = async () => {
                 updatedProducts.push({
                     ...product,
                     previousPrice: product.currentPrice,
-                    currentPrice: newPrice,
+                    currentPrice: newPrice, // Bu satırda currentPrice'i güncelliyoruz
                     lastUpdated: new Date().toISOString(),
                 });
                 console.log(`✅ ${product.name} => ${newPrice} TL`);
@@ -42,17 +42,14 @@ const updatePrices = async () => {
         }
     }
 
-    try {
-        // Güncellenmiş ürünleri dosyaya kaydediyoruz
-        fs.writeFileSync(
-            './converted_products_updated.json', // Dosya yolunu dikkatlice kontrol edin
-            JSON.stringify(updatedProducts, null, 2), // İçeriği düzgün biçimde kaydediyoruz
-            'utf-8'
-        );
-        console.log('📦 Güncellenmiş ürünler converted_products_updated.json dosyasına kaydedildi.');
-    } catch (error) {
-        console.log('Dosya yazma hatası:', error.message);
-    }
+    // Güncellenmiş veriyi yaz
+    fs.writeFileSync(
+        './converted_products_updated.json',
+        JSON.stringify(updatedProducts, null, 2),
+        'utf-8'
+    );
+
+    console.log('📦 Güncellenmiş ürünler converted_products_updated.json dosyasına kaydedildi.');
 };
 
 updatePrices();

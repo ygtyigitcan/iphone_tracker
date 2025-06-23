@@ -6,8 +6,8 @@
     "add_to_cart_selector": ".add-to-basket-button-text",
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 45000,
-    "currentPrice": 54499,
-    "lastUpdated": "2025-06-23T21:20:30.288Z"
+    "currentPrice": 52799,
+    "lastUpdated": "2025-06-23T21:59:54.900Z"
   },
   {
     "name": "iPhone 15 128GB Siyah - Hepsiburada",
@@ -41,7 +41,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 45000,
     "currentPrice": 49799,
-    "lastUpdated": "2025-06-23T21:20:33.509Z"
+    "lastUpdated": "2025-06-23T21:59:56.284Z"
   },
   {
     "name": "iPhone 15 128GB Siyah - Vatan",
@@ -51,7 +51,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 45000,
     "currentPrice": 53999,
-    "lastUpdated": "2025-06-23T21:20:34.170Z"
+    "lastUpdated": "2025-06-23T21:59:56.865Z"
   },
   {
     "name": "iPhone 15 128GB Siyah - Teknosa",
@@ -69,7 +69,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 45000,
     "currentPrice": 53999,
-    "lastUpdated": "2025-06-23T21:20:35.385Z"
+    "lastUpdated": "2025-06-23T21:59:58.130Z"
   },
   {
     "name": "iPhone 15 128GB Mavi - Hepsiburada",
@@ -85,7 +85,9 @@
     "price_selector": "#corePrice_feature_div > div > div > span.a-price.aok-align-center > span.a-offscreen",
     "add_to_cart_selector": "input#add-to-cart-button",
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
-    "target_price": 45000
+    "target_price": 45000,
+    "currentPrice": 53499,
+    "lastUpdated": "2025-06-23T22:00:00.206Z"
   },
   {
     "name": "iPhone 15 128GB Mavi - N11",
@@ -103,7 +105,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 45000,
     "currentPrice": 49799,
-    "lastUpdated": "2025-06-23T21:20:36.581Z"
+    "lastUpdated": "2025-06-23T22:00:02.139Z"
   },
   {
     "name": "iPhone 15 128GB Mavi - Vatan",
@@ -113,7 +115,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 45000,
     "currentPrice": 53999,
-    "lastUpdated": "2025-06-23T21:20:37.022Z"
+    "lastUpdated": "2025-06-23T22:00:02.632Z"
   },
   {
     "name": "iPhone 15 128GB Mavi - Teknosa",
@@ -123,7 +125,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 45000,
     "currentPrice": 53999,
-    "lastUpdated": "2025-06-23T21:20:37.988Z"
+    "lastUpdated": "2025-06-23T22:00:03.520Z"
   },
   {
     "name": "iPhone 15 128GB Pembe - Trendyol",
@@ -132,8 +134,8 @@
     "add_to_cart_selector": "div.add-to-basket-button-text",
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 45000,
-    "currentPrice": 54499,
-    "lastUpdated": "2025-06-23T21:20:38.390Z"
+    "currentPrice": 53999,
+    "lastUpdated": "2025-06-23T22:00:03.887Z"
   },
   {
     "name": "iPhone 15 128GB Pembe - Hepsiburada",
@@ -149,9 +151,7 @@
     "price_selector": "#corePrice_feature_div > div > div > span.a-price.aok-align-center > span.a-offscreen",
     "add_to_cart_selector": "input#add-to-cart-button",
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
-    "target_price": 45000,
-    "currentPrice": 53999,
-    "lastUpdated": "2025-06-23T21:20:40.365Z"
+    "target_price": 45000
   },
   {
     "name": "iPhone 15 128GB Pembe - N11",
@@ -169,7 +169,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 45000,
     "currentPrice": 53999,
-    "lastUpdated": "2025-06-23T21:20:41.130Z"
+    "lastUpdated": "2025-06-23T22:00:07.139Z"
   },
   {
     "name": "iPhone 15 128GB Pembe - Vatan",
@@ -179,7 +179,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 45000,
     "currentPrice": 53999,
-    "lastUpdated": "2025-06-23T21:20:41.719Z"
+    "lastUpdated": "2025-06-23T22:00:07.742Z"
   },
   {
     "name": "iPhone 15 128GB Pembe - Teknosa",
@@ -189,7 +189,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 45000,
     "currentPrice": 53999,
-    "lastUpdated": "2025-06-23T21:20:42.540Z"
+    "lastUpdated": "2025-06-23T22:00:08.631Z"
   },
   {
     "name": "iPhone 15 128GB Sari - Trendyol",
@@ -199,7 +199,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 45000,
     "currentPrice": 52799,
-    "lastUpdated": "2025-06-23T21:20:42.892Z"
+    "lastUpdated": "2025-06-23T22:00:08.974Z"
   },
   {
     "name": "iPhone 15 128GB Sari - Hepsiburada",
@@ -225,7 +225,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 45000,
     "currentPrice": 53999,
-    "lastUpdated": "2025-06-23T21:20:45.121Z"
+    "lastUpdated": "2025-06-23T22:00:11.061Z"
   },
   {
     "name": "iPhone 15 128GB Sari - Vatan",
@@ -235,7 +235,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 45000,
     "currentPrice": 53999,
-    "lastUpdated": "2025-06-23T21:20:45.650Z"
+    "lastUpdated": "2025-06-23T22:00:11.566Z"
   },
   {
     "name": "iPhone 15 128GB Sari - Teknosa",
@@ -253,7 +253,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 45000,
     "currentPrice": 52499,
-    "lastUpdated": "2025-06-23T21:20:46.834Z"
+    "lastUpdated": "2025-06-23T22:00:12.649Z"
   },
   {
     "name": "iPhone 15 128GB Yesil - Hepsiburada",
@@ -279,7 +279,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 45000,
     "currentPrice": 53999,
-    "lastUpdated": "2025-06-23T21:20:47.636Z"
+    "lastUpdated": "2025-06-23T22:00:13.417Z"
   },
   {
     "name": "iPhone 15 128GB Yesil - Teknosa",
@@ -297,7 +297,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 47000,
     "currentPrice": 66979,
-    "lastUpdated": "2025-06-23T21:20:48.813Z"
+    "lastUpdated": "2025-06-23T22:00:14.595Z"
   },
   {
     "name": "iPhone 15 256GB Siyah - Hepsiburada",
@@ -323,7 +323,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 47000,
     "currentPrice": 54939,
-    "lastUpdated": "2025-06-23T21:20:50.657Z"
+    "lastUpdated": "2025-06-23T22:00:16.155Z"
   },
   {
     "name": "iPhone 15 256GB Siyah - Vatan",
@@ -333,7 +333,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 47000,
     "currentPrice": 54939,
-    "lastUpdated": "2025-06-23T21:20:51.060Z"
+    "lastUpdated": "2025-06-23T22:00:16.549Z"
   },
   {
     "name": "iPhone 15 256GB Siyah - Teknosa",
@@ -343,7 +343,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 47000,
     "currentPrice": 58999,
-    "lastUpdated": "2025-06-23T21:20:52.133Z"
+    "lastUpdated": "2025-06-23T22:00:17.578Z"
   },
   {
     "name": "iPhone 15 256GB Mavi - Trendyol",
@@ -352,8 +352,8 @@
     "add_to_cart_selector": "div.add-to-basket-button-text",
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 47000,
-    "currentPrice": 61999,
-    "lastUpdated": "2025-06-23T21:20:52.493Z"
+    "currentPrice": 58999,
+    "lastUpdated": "2025-06-23T22:00:17.912Z"
   },
   {
     "name": "iPhone 15 256GB Mavi - Mediamarkt",
@@ -363,7 +363,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 47000,
     "currentPrice": 58999,
-    "lastUpdated": "2025-06-23T21:20:53.093Z"
+    "lastUpdated": "2025-06-23T22:00:18.537Z"
   },
   {
     "name": "iPhone 15 256GB Mavi - Vatan",
@@ -373,7 +373,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 47000,
     "currentPrice": 58999,
-    "lastUpdated": "2025-06-23T21:20:53.455Z"
+    "lastUpdated": "2025-06-23T22:00:18.975Z"
   },
   {
     "name": "iPhone 15 256GB Mavi - Teknosa",
@@ -383,7 +383,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 47000,
     "currentPrice": 58999,
-    "lastUpdated": "2025-06-23T21:20:54.172Z"
+    "lastUpdated": "2025-06-23T22:00:19.909Z"
   },
   {
     "name": "iPhone 15 256GB Pembe - Hepsiburada",
@@ -409,7 +409,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 47000,
     "currentPrice": 58999,
-    "lastUpdated": "2025-06-23T21:20:55.053Z"
+    "lastUpdated": "2025-06-23T22:00:20.957Z"
   },
   {
     "name": "iPhone 15 256GB Pembe - Vatan",
@@ -419,7 +419,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 47000,
     "currentPrice": 58999,
-    "lastUpdated": "2025-06-23T21:20:55.401Z"
+    "lastUpdated": "2025-06-23T22:00:21.348Z"
   },
   {
     "name": "iPhone 15 256GB Pembe - Teknosa",
@@ -437,7 +437,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 47000,
     "currentPrice": 56579,
-    "lastUpdated": "2025-06-23T21:20:56.653Z"
+    "lastUpdated": "2025-06-23T22:00:22.538Z"
   },
   {
     "name": "iPhone 15 256GB Sari - Hepsiburada",
@@ -463,7 +463,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 47000,
     "currentPrice": 58999,
-    "lastUpdated": "2025-06-23T21:20:57.467Z"
+    "lastUpdated": "2025-06-23T22:00:23.398Z"
   },
   {
     "name": "iPhone 15 256GB Sari - Teknosa",
@@ -473,7 +473,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 47000,
     "currentPrice": 58999,
-    "lastUpdated": "2025-06-23T21:20:58.232Z"
+    "lastUpdated": "2025-06-23T22:00:24.221Z"
   },
   {
     "name": "iPhone 15 256GB Yesil - Trendyol",
@@ -483,7 +483,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 47000,
     "currentPrice": 58999,
-    "lastUpdated": "2025-06-23T21:20:58.591Z"
+    "lastUpdated": "2025-06-23T22:00:24.539Z"
   },
   {
     "name": "iPhone 15 256GB Yesil - Hepsiburada",
@@ -509,7 +509,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 47000,
     "currentPrice": 58999,
-    "lastUpdated": "2025-06-23T21:21:00.897Z"
+    "lastUpdated": "2025-06-23T22:00:26.312Z"
   },
   {
     "name": "iPhone 15 256GB Yesil - Vatan",
@@ -519,7 +519,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 47000,
     "currentPrice": 58999,
-    "lastUpdated": "2025-06-23T21:21:01.412Z"
+    "lastUpdated": "2025-06-23T22:00:27.088Z"
   },
   {
     "name": "iPhone 15 256GB Yesil - Teknosa",
@@ -535,9 +535,7 @@
     "price_selector": "#corePrice_feature_div > div > div > span.a-price.aok-align-center > span.a-offscreen",
     "add_to_cart_selector": "input#add-to-cart-button",
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
-    "target_price": 49000,
-    "currentPrice": 62999,
-    "lastUpdated": "2025-06-23T21:21:04.032Z"
+    "target_price": 49000
   },
   {
     "name": "iPhone 15 512GB Siyah - Mediamarkt",
@@ -547,7 +545,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 49000,
     "currentPrice": 62999,
-    "lastUpdated": "2025-06-23T21:21:04.799Z"
+    "lastUpdated": "2025-06-23T22:00:29.403Z"
   },
   {
     "name": "iPhone 15 512GB Siyah - Vatan",
@@ -557,7 +555,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 49000,
     "currentPrice": 62999,
-    "lastUpdated": "2025-06-23T21:21:05.304Z"
+    "lastUpdated": "2025-06-23T22:00:29.932Z"
   },
   {
     "name": "iPhone 15 512GB Mavi - Amazon",
@@ -565,7 +563,9 @@
     "price_selector": "#corePrice_feature_div > div > div > span.a-price.aok-align-center > span.a-offscreen",
     "add_to_cart_selector": "input#add-to-cart-button",
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
-    "target_price": 49000
+    "target_price": 49000,
+    "currentPrice": 71499,
+    "lastUpdated": "2025-06-23T22:00:31.823Z"
   },
   {
     "name": "iPhone 15 512GB Mavi - Mediamarkt",
@@ -575,7 +575,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 49000,
     "currentPrice": 62999,
-    "lastUpdated": "2025-06-23T21:21:08.455Z"
+    "lastUpdated": "2025-06-23T22:00:32.513Z"
   },
   {
     "name": "iPhone 15 512GB Mavi - Vatan",
@@ -585,7 +585,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 49000,
     "currentPrice": 62999,
-    "lastUpdated": "2025-06-23T21:21:08.983Z"
+    "lastUpdated": "2025-06-23T22:00:33.218Z"
   },
   {
     "name": "iPhone 15 512GB Pembe - Mediamarkt",
@@ -595,7 +595,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 49000,
     "currentPrice": 62999,
-    "lastUpdated": "2025-06-23T21:21:09.552Z"
+    "lastUpdated": "2025-06-23T22:00:34.674Z"
   },
   {
     "name": "iPhone 15 512GB Pembe - Vatan",
@@ -605,7 +605,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 49000,
     "currentPrice": 62999,
-    "lastUpdated": "2025-06-23T21:21:10.025Z"
+    "lastUpdated": "2025-06-23T22:00:35.480Z"
   },
   {
     "name": "iPhone 15 512GB Sari - Hepsiburada",
@@ -631,7 +631,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 49000,
     "currentPrice": 62999,
-    "lastUpdated": "2025-06-23T21:21:12.115Z"
+    "lastUpdated": "2025-06-23T22:00:38.182Z"
   },
   {
     "name": "iPhone 15 512GB Sari - Vatan",
@@ -641,7 +641,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 49000,
     "currentPrice": 62999,
-    "lastUpdated": "2025-06-23T21:21:12.683Z"
+    "lastUpdated": "2025-06-23T22:00:39.045Z"
   },
   {
     "name": "iPhone 15 512GB Yesil - Hepsiburada",
@@ -667,7 +667,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 49000,
     "currentPrice": 62999,
-    "lastUpdated": "2025-06-23T21:21:14.439Z"
+    "lastUpdated": "2025-06-23T22:00:41.271Z"
   },
   {
     "name": "iPhone 15 512GB Yesil - Vatan",
@@ -677,7 +677,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 49000,
     "currentPrice": 62999,
-    "lastUpdated": "2025-06-23T21:21:14.997Z"
+    "lastUpdated": "2025-06-23T22:00:42.008Z"
   },
   {
     "name": "iPhone 15 Plus 128GB Siyah - Trendyol",
@@ -687,7 +687,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 49000,
     "currentPrice": 61799,
-    "lastUpdated": "2025-06-23T21:21:15.353Z"
+    "lastUpdated": "2025-06-23T22:00:42.354Z"
   },
   {
     "name": "iPhone 15 Plus 128GB Siyah - N11",
@@ -705,7 +705,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 49000,
     "currentPrice": 60039,
-    "lastUpdated": "2025-06-23T21:21:16.072Z"
+    "lastUpdated": "2025-06-23T22:00:45.520Z"
   },
   {
     "name": "iPhone 15 Plus 128GB Siyah - Vatan",
@@ -715,7 +715,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 49000,
     "currentPrice": 63999,
-    "lastUpdated": "2025-06-23T21:21:16.597Z"
+    "lastUpdated": "2025-06-23T22:00:46.307Z"
   },
   {
     "name": "iPhone 15 Plus 128GB Siyah - Teknosa",
@@ -733,7 +733,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 49000,
     "currentPrice": 62999,
-    "lastUpdated": "2025-06-23T21:21:17.899Z"
+    "lastUpdated": "2025-06-23T22:00:47.569Z"
   },
   {
     "name": "iPhone 15 Plus 128GB Mavi - Hepsiburada",
@@ -767,7 +767,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 49000,
     "currentPrice": 63999,
-    "lastUpdated": "2025-06-23T21:21:18.689Z"
+    "lastUpdated": "2025-06-23T22:00:48.611Z"
   },
   {
     "name": "iPhone 15 Plus 128GB Mavi - Teknosa",
@@ -777,7 +777,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 49000,
     "currentPrice": 63999,
-    "lastUpdated": "2025-06-23T21:21:19.591Z"
+    "lastUpdated": "2025-06-23T22:00:49.661Z"
   },
   {
     "name": "iPhone 15 Plus 128GB Pembe - Trendyol",
@@ -787,7 +787,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 49000,
     "currentPrice": 69999,
-    "lastUpdated": "2025-06-23T21:21:19.947Z"
+    "lastUpdated": "2025-06-23T22:00:50.004Z"
   },
   {
     "name": "iPhone 15 Plus 128GB Pembe - Hepsiburada",
@@ -821,7 +821,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 49000,
     "currentPrice": 63999,
-    "lastUpdated": "2025-06-23T21:21:22.369Z"
+    "lastUpdated": "2025-06-23T22:00:51.194Z"
   },
   {
     "name": "iPhone 15 Plus 128GB Pembe - Vatan",
@@ -831,7 +831,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 49000,
     "currentPrice": 63999,
-    "lastUpdated": "2025-06-23T21:21:22.868Z"
+    "lastUpdated": "2025-06-23T22:00:51.585Z"
   },
   {
     "name": "iPhone 15 Plus 128GB Pembe - Teknosa",
@@ -841,7 +841,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 49000,
     "currentPrice": 63999,
-    "lastUpdated": "2025-06-23T21:21:23.723Z"
+    "lastUpdated": "2025-06-23T22:00:52.440Z"
   },
   {
     "name": "iPhone 15 Plus 128GB Sari - Trendyol",
@@ -851,7 +851,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 49000,
     "currentPrice": 56613,
-    "lastUpdated": "2025-06-23T21:21:24.056Z"
+    "lastUpdated": "2025-06-23T22:00:52.768Z"
   },
   {
     "name": "iPhone 15 Plus 128GB Sari - Mediamarkt",
@@ -861,7 +861,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 49000,
     "currentPrice": 60039,
-    "lastUpdated": "2025-06-23T21:21:24.777Z"
+    "lastUpdated": "2025-06-23T22:00:53.465Z"
   },
   {
     "name": "iPhone 15 Plus 128GB Sari - Vatan",
@@ -871,7 +871,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 49000,
     "currentPrice": 61999,
-    "lastUpdated": "2025-06-23T21:21:25.236Z"
+    "lastUpdated": "2025-06-23T22:00:54.203Z"
   },
   {
     "name": "iPhone 15 Plus 128GB Sari - Teknosa",
@@ -881,7 +881,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 49000,
     "currentPrice": 58999,
-    "lastUpdated": "2025-06-23T21:21:26.037Z"
+    "lastUpdated": "2025-06-23T22:00:54.974Z"
   },
   {
     "name": "iPhone 15 Plus 128GB Yesil - Trendyol",
@@ -891,7 +891,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 49000,
     "currentPrice": 62000,
-    "lastUpdated": "2025-06-23T21:21:26.403Z"
+    "lastUpdated": "2025-06-23T22:00:55.306Z"
   },
   {
     "name": "iPhone 15 Plus 128GB Yesil - Amazon",
@@ -909,7 +909,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 49000,
     "currentPrice": 63999,
-    "lastUpdated": "2025-06-23T21:21:27.348Z"
+    "lastUpdated": "2025-06-23T22:00:56.130Z"
   },
   {
     "name": "iPhone 15 Plus 128GB Yesil - Vatan",
@@ -919,7 +919,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 49000,
     "currentPrice": 63999,
-    "lastUpdated": "2025-06-23T21:21:27.802Z"
+    "lastUpdated": "2025-06-23T22:00:56.545Z"
   },
   {
     "name": "iPhone 15 Plus 128GB Yesil - Teknosa",
@@ -937,7 +937,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 52000,
     "currentPrice": 67999,
-    "lastUpdated": "2025-06-23T21:21:28.902Z"
+    "lastUpdated": "2025-06-23T22:00:57.807Z"
   },
   {
     "name": "iPhone 15 Plus 256GB Siyah - Hepsiburada",
@@ -953,7 +953,9 @@
     "price_selector": "#corePrice_feature_div > div > div > span.a-price.aok-align-center > span.a-offscreen",
     "add_to_cart_selector": "input#add-to-cart-button",
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
-    "target_price": 52000
+    "target_price": 52000,
+    "currentPrice": 68599,
+    "lastUpdated": "2025-06-23T22:00:59.862Z"
   },
   {
     "name": "iPhone 15 Plus 256GB Siyah - Mediamarkt",
@@ -963,7 +965,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 52000,
     "currentPrice": 68489,
-    "lastUpdated": "2025-06-23T21:21:30.773Z"
+    "lastUpdated": "2025-06-23T22:01:01.197Z"
   },
   {
     "name": "iPhone 15 Plus 256GB Siyah - Teknosa",
@@ -981,7 +983,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 52000,
     "currentPrice": 67999,
-    "lastUpdated": "2025-06-23T21:21:31.823Z"
+    "lastUpdated": "2025-06-23T22:01:02.415Z"
   },
   {
     "name": "iPhone 15 Plus 256GB Mavi - Hepsiburada",
@@ -1007,7 +1009,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 52000,
     "currentPrice": 68489,
-    "lastUpdated": "2025-06-23T21:21:32.658Z"
+    "lastUpdated": "2025-06-23T22:01:04.288Z"
   },
   {
     "name": "iPhone 15 Plus 256GB Mavi - Teknosa",
@@ -1041,7 +1043,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 52000,
     "currentPrice": 68599,
-    "lastUpdated": "2025-06-23T21:21:35.215Z"
+    "lastUpdated": "2025-06-23T22:01:10.009Z"
   },
   {
     "name": "iPhone 15 Plus 256GB Pembe - Vatan",
@@ -1051,7 +1053,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 52000,
     "currentPrice": 68599,
-    "lastUpdated": "2025-06-23T21:21:35.766Z"
+    "lastUpdated": "2025-06-23T22:01:10.486Z"
   },
   {
     "name": "iPhone 15 Plus 256GB Pembe - Teknosa",
@@ -1069,7 +1071,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 52000,
     "currentPrice": 68599,
-    "lastUpdated": "2025-06-23T21:21:38.324Z"
+    "lastUpdated": "2025-06-23T22:01:12.160Z"
   },
   {
     "name": "iPhone 15 Plus 256GB Yesil - Trendyol",
@@ -1079,7 +1081,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 52000,
     "currentPrice": 70948.9,
-    "lastUpdated": "2025-06-23T21:21:38.650Z"
+    "lastUpdated": "2025-06-23T22:01:12.519Z"
   },
   {
     "name": "iPhone 15 Plus 256GB Yesil - Mediamarkt",
@@ -1089,7 +1091,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 52000,
     "currentPrice": 68599,
-    "lastUpdated": "2025-06-23T21:21:40.121Z"
+    "lastUpdated": "2025-06-23T22:01:13.142Z"
   },
   {
     "name": "iPhone 15 Plus 512GB Siyah - Amazon",
@@ -1099,7 +1101,7 @@
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
     "target_price": 54000,
     "currentPrice": 81969.6,
-    "lastUpdated": "2025-06-23T21:21:42.083Z"
+    "lastUpdated": "2025-06-23T22:01:15.140Z"
   },
   {
     "name": "iPhone 15 Plus 512GB Mavi - Amazon",
@@ -1107,9 +1109,7 @@
     "price_selector": "#corePrice_feature_div > div > div > span.a-price.aok-align-center > span.a-offscreen",
     "add_to_cart_selector": "input#add-to-cart-button",
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
-    "target_price": 54000,
-    "currentPrice": 81999,
-    "lastUpdated": "2025-06-23T21:21:44.041Z"
+    "target_price": 54000
   },
   {
     "name": "iPhone 15 Plus 512GB Mavi - Mediamarkt",
@@ -1119,7 +1119,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 54000,
     "currentPrice": 81999,
-    "lastUpdated": "2025-06-23T21:21:45.548Z"
+    "lastUpdated": "2025-06-23T22:01:16.012Z"
   },
   {
     "name": "iPhone 15 Plus 512GB Mavi - Vatan",
@@ -1129,7 +1129,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 54000,
     "currentPrice": 73999,
-    "lastUpdated": "2025-06-23T21:21:46.110Z"
+    "lastUpdated": "2025-06-23T22:01:16.728Z"
   },
   {
     "name": "iPhone 15 Plus 512GB Pembe - Trendyol",
@@ -1139,7 +1139,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 54000,
     "currentPrice": 82000,
-    "lastUpdated": "2025-06-23T21:21:46.466Z"
+    "lastUpdated": "2025-06-23T22:01:17.073Z"
   },
   {
     "name": "iPhone 15 Plus 512GB Pembe - Hepsiburada",
@@ -1155,7 +1155,9 @@
     "price_selector": "#corePrice_feature_div > div > div > span.a-price.aok-align-center > span.a-offscreen",
     "add_to_cart_selector": "input#add-to-cart-button",
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
-    "target_price": 54000
+    "target_price": 54000,
+    "currentPrice": 73066,
+    "lastUpdated": "2025-06-23T22:01:19.211Z"
   },
   {
     "name": "iPhone 15 Plus 512GB Pembe - N11",
@@ -1173,7 +1175,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 54000,
     "currentPrice": 73066,
-    "lastUpdated": "2025-06-23T21:21:49.529Z"
+    "lastUpdated": "2025-06-23T22:01:19.896Z"
   },
   {
     "name": "iPhone 15 Plus 512GB Pembe - Vatan",
@@ -1183,7 +1185,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 54000,
     "currentPrice": 73999,
-    "lastUpdated": "2025-06-23T21:21:49.960Z"
+    "lastUpdated": "2025-06-23T22:01:20.392Z"
   },
   {
     "name": "iPhone 15 Plus 512GB Pembe - Teknosa",
@@ -1201,7 +1203,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 54000,
     "currentPrice": 66499,
-    "lastUpdated": "2025-06-23T21:21:50.917Z"
+    "lastUpdated": "2025-06-23T22:01:21.508Z"
   },
   {
     "name": "iPhone 15 Plus 512GB Sari - Amazon",
@@ -1211,7 +1213,7 @@
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
     "target_price": 54000,
     "currentPrice": 81999,
-    "lastUpdated": "2025-06-23T21:21:52.840Z"
+    "lastUpdated": "2025-06-23T22:01:23.538Z"
   },
   {
     "name": "iPhone 15 Plus 512GB Sari - Vatan",
@@ -1221,7 +1223,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 54000,
     "currentPrice": 73999,
-    "lastUpdated": "2025-06-23T21:21:53.287Z"
+    "lastUpdated": "2025-06-23T22:01:24.440Z"
   },
   {
     "name": "iPhone 15 Plus 512GB Yesil - Amazon",
@@ -1279,7 +1281,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 65000,
     "currentPrice": 79999,
-    "lastUpdated": "2025-06-23T21:21:55.224Z"
+    "lastUpdated": "2025-06-23T22:01:26.395Z"
   },
   {
     "name": "iPhone 15 Pro 128GB Beyaz Titanyum - Hepsiburada",
@@ -1297,7 +1299,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 65000,
     "currentPrice": 71900,
-    "lastUpdated": "2025-06-23T21:21:55.676Z"
+    "lastUpdated": "2025-06-23T22:01:26.848Z"
   },
   {
     "name": "iPhone 15 Pro 128GB Siyah Titanyum - Hepsiburada",
@@ -1387,7 +1389,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 71000,
     "currentPrice": 97999,
-    "lastUpdated": "2025-06-23T21:21:59.337Z"
+    "lastUpdated": "2025-06-23T22:01:28.946Z"
   },
   {
     "name": "iPhone 15 Pro 1TB Natürel Titanyum - Hepsiburada",
@@ -1405,7 +1407,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 71000,
     "currentPrice": 91999,
-    "lastUpdated": "2025-06-23T21:21:59.988Z"
+    "lastUpdated": "2025-06-23T22:01:29.521Z"
   },
   {
     "name": "iPhone 15 Pro 1TB Mavi Titanyum - Trendyol",
@@ -1415,7 +1417,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 71000,
     "currentPrice": 84989,
-    "lastUpdated": "2025-06-23T21:22:00.334Z"
+    "lastUpdated": "2025-06-23T22:01:29.823Z"
   },
   {
     "name": "iPhone 15 Pro 1TB Mavi Titanyum - Hepsiburada",
@@ -1441,7 +1443,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 71000,
     "currentPrice": 91999,
-    "lastUpdated": "2025-06-23T21:22:02.588Z"
+    "lastUpdated": "2025-06-23T22:01:30.609Z"
   },
   {
     "name": "iPhone 15 Pro 1TB Beyaz Titanyum - Trendyol",
@@ -1451,7 +1453,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 71000,
     "currentPrice": 82000,
-    "lastUpdated": "2025-06-23T21:22:02.890Z"
+    "lastUpdated": "2025-06-23T22:01:30.938Z"
   },
   {
     "name": "iPhone 15 Pro 1TB Beyaz Titanyum - Hepsiburada",
@@ -1469,7 +1471,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 71000,
     "currentPrice": 91999,
-    "lastUpdated": "2025-06-23T21:22:03.415Z"
+    "lastUpdated": "2025-06-23T22:01:31.466Z"
   },
   {
     "name": "iPhone 15 Pro 1TB Siyah Titanyum - Trendyol",
@@ -1479,7 +1481,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 71000,
     "currentPrice": 85000,
-    "lastUpdated": "2025-06-23T21:22:03.718Z"
+    "lastUpdated": "2025-06-23T22:01:31.811Z"
   },
   {
     "name": "iPhone 15 Pro 1TB Siyah Titanyum - Hepsiburada",
@@ -1497,7 +1499,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 71000,
     "currentPrice": 91999,
-    "lastUpdated": "2025-06-23T21:22:04.270Z"
+    "lastUpdated": "2025-06-23T22:01:32.464Z"
   },
   {
     "name": "iPhone 15 Pro Max 256GB Mavi Titanyum - Hepsiburada",
@@ -1531,7 +1533,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 72000,
     "currentPrice": 88399,
-    "lastUpdated": "2025-06-23T21:22:04.863Z"
+    "lastUpdated": "2025-06-23T22:01:33.051Z"
   },
   {
     "name": "iPhone 15 Pro Max 256GB Siyah Titanyum - Hepsiburada",
@@ -1549,7 +1551,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 75000,
     "currentPrice": 109999,
-    "lastUpdated": "2025-06-23T21:22:05.365Z"
+    "lastUpdated": "2025-06-23T22:01:33.497Z"
   },
   {
     "name": "iPhone 15 Pro Max 512GB Natürel Titanyum - N11",
@@ -1567,7 +1569,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 75000,
     "currentPrice": 101999,
-    "lastUpdated": "2025-06-23T21:22:05.918Z"
+    "lastUpdated": "2025-06-23T22:01:33.974Z"
   },
   {
     "name": "iPhone 15 Pro Max 512GB Mavi Titanyum - Hepsiburada",
@@ -1601,7 +1603,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 75000,
     "currentPrice": 109990,
-    "lastUpdated": "2025-06-23T21:22:07.578Z"
+    "lastUpdated": "2025-06-23T22:01:35.651Z"
   },
   {
     "name": "iPhone 15 Pro Max 512GB Beyaz Titanyum - Hepsiburada",
@@ -1617,7 +1619,9 @@
     "price_selector": "#corePrice_feature_div > div > div > span.a-price.aok-align-center > span.a-offscreen",
     "add_to_cart_selector": "input#add-to-cart-button",
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
-    "target_price": 75000
+    "target_price": 75000,
+    "currentPrice": 104989,
+    "lastUpdated": "2025-06-23T22:01:37.681Z"
   },
   {
     "name": "iPhone 15 Pro Max 512GB Siyah Titanyum - Trendyol",
@@ -1627,7 +1631,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 75000,
     "currentPrice": 99999,
-    "lastUpdated": "2025-06-23T21:22:08.284Z"
+    "lastUpdated": "2025-06-23T22:01:37.976Z"
   },
   {
     "name": "iPhone 15 Pro Max 512GB Siyah Titanyum - Hepsiburada",
@@ -1653,7 +1657,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 78000,
     "currentPrice": 108000,
-    "lastUpdated": "2025-06-23T21:22:09.850Z"
+    "lastUpdated": "2025-06-23T22:01:39.509Z"
   },
   {
     "name": "iPhone 15 Pro Max 1TB Natürel Titanyum - Hepsiburada",
@@ -1679,7 +1683,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 78000,
     "currentPrice": 104700,
-    "lastUpdated": "2025-06-23T21:22:10.995Z"
+    "lastUpdated": "2025-06-23T22:01:40.716Z"
   },
   {
     "name": "iPhone 15 Pro Max 1TB Mavi Titanyum - Hepsiburada",
@@ -1697,7 +1701,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 78000,
     "currentPrice": 99499,
-    "lastUpdated": "2025-06-23T21:22:11.520Z"
+    "lastUpdated": "2025-06-23T22:01:41.109Z"
   },
   {
     "name": "iPhone 15 Pro Max 1TB Beyaz Titanyum - Amazon",
@@ -1731,7 +1735,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 78000,
     "currentPrice": 106999,
-    "lastUpdated": "2025-06-23T21:22:12.788Z"
+    "lastUpdated": "2025-06-23T22:01:42.461Z"
   },
   {
     "name": "iPhone 15 Pro Max 1TB Siyah Titanyum - Hepsiburada",
@@ -1764,8 +1768,8 @@
     "add_to_cart_selector": "div.add-to-basket-button-text",
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 55000,
-    "currentPrice": 62299,
-    "lastUpdated": "2025-06-23T21:22:14.148Z"
+    "currentPrice": 59999,
+    "lastUpdated": "2025-06-23T22:01:43.864Z"
   },
   {
     "name": "iPhone 16 128GB Laciverttas - Hepsiburada",
@@ -1799,7 +1803,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 55000,
     "currentPrice": 59999,
-    "lastUpdated": "2025-06-23T21:22:15.213Z"
+    "lastUpdated": "2025-06-23T22:01:44.894Z"
   },
   {
     "name": "iPhone 16 128GB Laciverttas - Vatan",
@@ -1809,7 +1813,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 55000,
     "currentPrice": 59999,
-    "lastUpdated": "2025-06-23T21:22:15.635Z"
+    "lastUpdated": "2025-06-23T22:01:45.320Z"
   },
   {
     "name": "iPhone 16 128GB Laciverttas - Teknosa",
@@ -1819,7 +1823,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 55000,
     "currentPrice": 59999,
-    "lastUpdated": "2025-06-23T21:22:16.424Z"
+    "lastUpdated": "2025-06-23T22:01:46.201Z"
   },
   {
     "name": "iPhone 16 128GB Deniz Mavisi - Trendyol",
@@ -1829,7 +1833,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 55000,
     "currentPrice": 59999,
-    "lastUpdated": "2025-06-23T21:22:16.823Z"
+    "lastUpdated": "2025-06-23T22:01:46.563Z"
   },
   {
     "name": "iPhone 16 128GB Deniz Mavisi - Hepsiburada",
@@ -1855,7 +1859,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 55000,
     "currentPrice": 59339,
-    "lastUpdated": "2025-06-23T21:22:18.825Z"
+    "lastUpdated": "2025-06-23T22:01:47.499Z"
   },
   {
     "name": "iPhone 16 128GB Deniz Mavisi - Vatan",
@@ -1865,7 +1869,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 55000,
     "currentPrice": 59339,
-    "lastUpdated": "2025-06-23T21:22:19.194Z"
+    "lastUpdated": "2025-06-23T22:01:48.306Z"
   },
   {
     "name": "iPhone 16 128GB Deniz Mavisi - Teknosa",
@@ -1883,7 +1887,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 55000,
     "currentPrice": 59999,
-    "lastUpdated": "2025-06-23T21:22:20.474Z"
+    "lastUpdated": "2025-06-23T22:01:49.418Z"
   },
   {
     "name": "iPhone 16 128GB Pembe - Hepsiburada",
@@ -1917,7 +1921,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 55000,
     "currentPrice": 59999,
-    "lastUpdated": "2025-06-23T21:22:23.216Z"
+    "lastUpdated": "2025-06-23T22:01:50.461Z"
   },
   {
     "name": "iPhone 16 128GB Pembe - Vatan",
@@ -1927,7 +1931,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 55000,
     "currentPrice": 59999,
-    "lastUpdated": "2025-06-23T21:22:23.719Z"
+    "lastUpdated": "2025-06-23T22:01:50.891Z"
   },
   {
     "name": "iPhone 16 128GB Pembe - Teknosa",
@@ -1937,7 +1941,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 55000,
     "currentPrice": 59999,
-    "lastUpdated": "2025-06-23T21:22:24.432Z"
+    "lastUpdated": "2025-06-23T22:01:57.032Z"
   },
   {
     "name": "iPhone 16 128GB Beyaz - Trendyol",
@@ -1947,7 +1951,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 55000,
     "currentPrice": 59340,
-    "lastUpdated": "2025-06-23T21:22:24.778Z"
+    "lastUpdated": "2025-06-23T22:01:57.419Z"
   },
   {
     "name": "iPhone 16 128GB Beyaz - Hepsiburada",
@@ -1973,7 +1977,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 55000,
     "currentPrice": 59339,
-    "lastUpdated": "2025-06-23T21:22:26.823Z"
+    "lastUpdated": "2025-06-23T22:01:58.221Z"
   },
   {
     "name": "iPhone 16 128GB Beyaz - Vatan",
@@ -1983,7 +1987,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 55000,
     "currentPrice": 59999,
-    "lastUpdated": "2025-06-23T21:22:27.319Z"
+    "lastUpdated": "2025-06-23T22:01:58.637Z"
   },
   {
     "name": "iPhone 16 128GB Beyaz - Teknosa",
@@ -1993,7 +1997,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 55000,
     "currentPrice": 59999,
-    "lastUpdated": "2025-06-23T21:22:28.310Z"
+    "lastUpdated": "2025-06-23T22:01:59.530Z"
   },
   {
     "name": "iPhone 16 128GB Siyah - Trendyol",
@@ -2003,7 +2007,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 55000,
     "currentPrice": 64749,
-    "lastUpdated": "2025-06-23T21:22:28.680Z"
+    "lastUpdated": "2025-06-23T22:01:59.865Z"
   },
   {
     "name": "iPhone 16 128GB Siyah - Hepsiburada",
@@ -2029,7 +2033,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 55000,
     "currentPrice": 59339,
-    "lastUpdated": "2025-06-23T21:22:30.394Z"
+    "lastUpdated": "2025-06-23T22:02:00.875Z"
   },
   {
     "name": "iPhone 16 128GB Siyah - Teknosa",
@@ -2039,7 +2043,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 55000,
     "currentPrice": 59999,
-    "lastUpdated": "2025-06-23T21:22:31.237Z"
+    "lastUpdated": "2025-06-23T22:02:01.637Z"
   },
   {
     "name": "iPhone 16 256GB Laciverttas - Trendyol",
@@ -2049,7 +2053,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 57000,
     "currentPrice": 69399,
-    "lastUpdated": "2025-06-23T21:22:31.514Z"
+    "lastUpdated": "2025-06-23T22:02:01.996Z"
   },
   {
     "name": "iPhone 16 256GB Laciverttas - Hepsiburada",
@@ -2083,7 +2087,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 57000,
     "currentPrice": 69999,
-    "lastUpdated": "2025-06-23T21:22:33.877Z"
+    "lastUpdated": "2025-06-23T22:02:03.014Z"
   },
   {
     "name": "iPhone 16 256GB Laciverttas - Teknosa",
@@ -2093,7 +2097,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 57000,
     "currentPrice": 69999,
-    "lastUpdated": "2025-06-23T21:22:34.792Z"
+    "lastUpdated": "2025-06-23T22:02:03.836Z"
   },
   {
     "name": "iPhone 16 256GB Deniz Mavisi - Trendyol",
@@ -2103,7 +2107,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 57000,
     "currentPrice": 69449,
-    "lastUpdated": "2025-06-23T21:22:35.167Z"
+    "lastUpdated": "2025-06-23T22:02:04.179Z"
   },
   {
     "name": "iPhone 16 256GB Deniz Mavisi - Hepsiburada",
@@ -2129,7 +2133,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 57000,
     "currentPrice": 69999,
-    "lastUpdated": "2025-06-23T21:22:36.116Z"
+    "lastUpdated": "2025-06-23T22:02:05.066Z"
   },
   {
     "name": "iPhone 16 256GB Deniz Mavisi - Vatan",
@@ -2139,7 +2143,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 57000,
     "currentPrice": 69999,
-    "lastUpdated": "2025-06-23T21:22:36.561Z"
+    "lastUpdated": "2025-06-23T22:02:05.629Z"
   },
   {
     "name": "iPhone 16 256GB Deniz Mavisi - Teknosa",
@@ -2149,7 +2153,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 57000,
     "currentPrice": 69999,
-    "lastUpdated": "2025-06-23T21:22:37.448Z"
+    "lastUpdated": "2025-06-23T22:02:06.372Z"
   },
   {
     "name": "iPhone 16 256GB Pembe - Trendyol",
@@ -2159,7 +2163,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 57000,
     "currentPrice": 69999,
-    "lastUpdated": "2025-06-23T21:22:37.769Z"
+    "lastUpdated": "2025-06-23T22:02:06.708Z"
   },
   {
     "name": "iPhone 16 256GB Pembe - Hepsiburada",
@@ -2185,7 +2189,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 57000,
     "currentPrice": 69999,
-    "lastUpdated": "2025-06-23T21:22:39.780Z"
+    "lastUpdated": "2025-06-23T22:02:07.686Z"
   },
   {
     "name": "iPhone 16 256GB Pembe - Vatan",
@@ -2195,7 +2199,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 57000,
     "currentPrice": 69999,
-    "lastUpdated": "2025-06-23T21:22:40.351Z"
+    "lastUpdated": "2025-06-23T22:02:08.466Z"
   },
   {
     "name": "iPhone 16 256GB Pembe - Teknosa",
@@ -2205,7 +2209,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 57000,
     "currentPrice": 69999,
-    "lastUpdated": "2025-06-23T21:22:41.180Z"
+    "lastUpdated": "2025-06-23T22:02:09.347Z"
   },
   {
     "name": "iPhone 16 256GB Beyaz - Trendyol",
@@ -2215,7 +2219,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 57000,
     "currentPrice": 69999,
-    "lastUpdated": "2025-06-23T21:22:41.562Z"
+    "lastUpdated": "2025-06-23T22:02:09.683Z"
   },
   {
     "name": "iPhone 16 256GB Beyaz - Hepsiburada",
@@ -2241,7 +2245,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 57000,
     "currentPrice": 69999,
-    "lastUpdated": "2025-06-23T21:22:42.415Z"
+    "lastUpdated": "2025-06-23T22:02:10.596Z"
   },
   {
     "name": "iPhone 16 256GB Beyaz - Vatan",
@@ -2251,7 +2255,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 57000,
     "currentPrice": 69999,
-    "lastUpdated": "2025-06-23T21:22:42.895Z"
+    "lastUpdated": "2025-06-23T22:02:11.373Z"
   },
   {
     "name": "iPhone 16 256GB Beyaz - Teknosa",
@@ -2261,7 +2265,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 57000,
     "currentPrice": 69999,
-    "lastUpdated": "2025-06-23T21:22:43.763Z"
+    "lastUpdated": "2025-06-23T22:02:12.193Z"
   },
   {
     "name": "iPhone 16 256GB Siyah - Trendyol",
@@ -2271,7 +2275,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 57000,
     "currentPrice": 69599,
-    "lastUpdated": "2025-06-23T21:22:44.173Z"
+    "lastUpdated": "2025-06-23T22:02:12.518Z"
   },
   {
     "name": "iPhone 16 256GB Siyah - Hepsiburada",
@@ -2297,7 +2301,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 57000,
     "currentPrice": 69999,
-    "lastUpdated": "2025-06-23T21:22:45.888Z"
+    "lastUpdated": "2025-06-23T22:02:14.393Z"
   },
   {
     "name": "iPhone 16 256GB Siyah - Vatan",
@@ -2307,7 +2311,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 57000,
     "currentPrice": 69999,
-    "lastUpdated": "2025-06-23T21:22:46.345Z"
+    "lastUpdated": "2025-06-23T22:02:14.885Z"
   },
   {
     "name": "iPhone 16 256GB Siyah - Teknosa",
@@ -2325,7 +2329,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 59000,
     "currentPrice": 78999,
-    "lastUpdated": "2025-06-23T21:22:47.383Z"
+    "lastUpdated": "2025-06-23T22:02:16.058Z"
   },
   {
     "name": "iPhone 16 512GB Laciverttas - Hepsiburada",
@@ -2343,7 +2347,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 59000,
     "currentPrice": 75999,
-    "lastUpdated": "2025-06-23T21:22:49.439Z"
+    "lastUpdated": "2025-06-23T22:02:16.940Z"
   },
   {
     "name": "iPhone 16 512GB Laciverttas - Vatan",
@@ -2353,7 +2357,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 59000,
     "currentPrice": 76000,
-    "lastUpdated": "2025-06-23T21:22:49.962Z"
+    "lastUpdated": "2025-06-23T22:02:17.387Z"
   },
   {
     "name": "iPhone 16 512GB Deniz Mavisi - Amazon",
@@ -2361,7 +2365,9 @@
     "price_selector": "#corePrice_feature_div > div > div > span.a-price.aok-align-center > span.a-offscreen",
     "add_to_cart_selector": "input#add-to-cart-button",
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
-    "target_price": 59000
+    "target_price": 59000,
+    "currentPrice": 75999,
+    "lastUpdated": "2025-06-23T22:02:19.217Z"
   },
   {
     "name": "iPhone 16 512GB Deniz Mavisi - Mediamarkt",
@@ -2371,7 +2377,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 59000,
     "currentPrice": 75999,
-    "lastUpdated": "2025-06-23T21:22:50.762Z"
+    "lastUpdated": "2025-06-23T22:02:19.859Z"
   },
   {
     "name": "iPhone 16 512GB Deniz Mavisi - Vatan",
@@ -2381,7 +2387,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 59000,
     "currentPrice": 76000,
-    "lastUpdated": "2025-06-23T21:22:51.249Z"
+    "lastUpdated": "2025-06-23T22:02:20.343Z"
   },
   {
     "name": "iPhone 16 512GB Pembe - Amazon",
@@ -2389,9 +2395,7 @@
     "price_selector": "#corePrice_feature_div > div > div > span.a-price.aok-align-center > span.a-offscreen",
     "add_to_cart_selector": "input#add-to-cart-button",
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
-    "target_price": 59000,
-    "currentPrice": 72999,
-    "lastUpdated": "2025-06-23T21:22:53.219Z"
+    "target_price": 59000
   },
   {
     "name": "iPhone 16 512GB Pembe - Mediamarkt",
@@ -2401,7 +2405,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 59000,
     "currentPrice": 75999,
-    "lastUpdated": "2025-06-23T21:22:53.917Z"
+    "lastUpdated": "2025-06-23T22:02:21.211Z"
   },
   {
     "name": "iPhone 16 512GB Pembe - Vatan",
@@ -2411,7 +2415,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 59000,
     "currentPrice": 76000,
-    "lastUpdated": "2025-06-23T21:22:54.417Z"
+    "lastUpdated": "2025-06-23T22:02:21.704Z"
   },
   {
     "name": "iPhone 16 512GB Beyaz - Hepsiburada",
@@ -2429,7 +2433,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 59000,
     "currentPrice": 75999,
-    "lastUpdated": "2025-06-23T21:22:55.253Z"
+    "lastUpdated": "2025-06-23T22:02:23.489Z"
   },
   {
     "name": "iPhone 16 512GB Beyaz - Vatan",
@@ -2439,7 +2443,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 59000,
     "currentPrice": 76000,
-    "lastUpdated": "2025-06-23T21:22:55.747Z"
+    "lastUpdated": "2025-06-23T22:02:24.023Z"
   },
   {
     "name": "iPhone 16 512GB Siyah - Trendyol",
@@ -2449,7 +2453,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 59000,
     "currentPrice": 78099,
-    "lastUpdated": "2025-06-23T21:22:56.067Z"
+    "lastUpdated": "2025-06-23T22:02:24.331Z"
   },
   {
     "name": "iPhone 16 512GB Siyah - Amazon",
@@ -2457,9 +2461,7 @@
     "price_selector": "#corePrice_feature_div > div > div > span.a-price.aok-align-center > span.a-offscreen",
     "add_to_cart_selector": "input#add-to-cart-button",
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
-    "target_price": 59000,
-    "currentPrice": 72999,
-    "lastUpdated": "2025-06-23T21:22:57.927Z"
+    "target_price": 59000
   },
   {
     "name": "iPhone 16 512GB Siyah - N11",
@@ -2477,7 +2479,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 59000,
     "currentPrice": 75999,
-    "lastUpdated": "2025-06-23T21:22:58.706Z"
+    "lastUpdated": "2025-06-23T22:02:25.913Z"
   },
   {
     "name": "iPhone 16 Plus 128GB Laciverttas - Trendyol",
@@ -2487,7 +2489,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 58000,
     "currentPrice": 70999,
-    "lastUpdated": "2025-06-23T21:22:59.025Z"
+    "lastUpdated": "2025-06-23T22:02:26.286Z"
   },
   {
     "name": "iPhone 16 Plus 128GB Laciverttas - Hepsiburada",
@@ -2521,7 +2523,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 58000,
     "currentPrice": 67939,
-    "lastUpdated": "2025-06-23T21:23:01.030Z"
+    "lastUpdated": "2025-06-23T22:02:27.370Z"
   },
   {
     "name": "iPhone 16 Plus 128GB Laciverttas - Vatan",
@@ -2531,7 +2533,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 58000,
     "currentPrice": 71999,
-    "lastUpdated": "2025-06-23T21:23:01.592Z"
+    "lastUpdated": "2025-06-23T22:02:27.839Z"
   },
   {
     "name": "iPhone 16 Plus 128GB Laciverttas - Teknosa",
@@ -2541,7 +2543,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 58000,
     "currentPrice": 71999,
-    "lastUpdated": "2025-06-23T21:23:02.457Z"
+    "lastUpdated": "2025-06-23T22:02:28.753Z"
   },
   {
     "name": "iPhone 16 Plus 128GB Deniz Mavisi - Trendyol",
@@ -2551,7 +2553,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 58000,
     "currentPrice": 70999,
-    "lastUpdated": "2025-06-23T21:23:02.801Z"
+    "lastUpdated": "2025-06-23T22:02:29.078Z"
   },
   {
     "name": "iPhone 16 Plus 128GB Deniz Mavisi - Hepsiburada",
@@ -2585,7 +2587,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 58000,
     "currentPrice": 71999,
-    "lastUpdated": "2025-06-23T21:23:03.690Z"
+    "lastUpdated": "2025-06-23T22:02:30.772Z"
   },
   {
     "name": "iPhone 16 Plus 128GB Deniz Mavisi - Vatan",
@@ -2595,7 +2597,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 58000,
     "currentPrice": 71999,
-    "lastUpdated": "2025-06-23T21:23:04.240Z"
+    "lastUpdated": "2025-06-23T22:02:31.276Z"
   },
   {
     "name": "iPhone 16 Plus 128GB Deniz Mavisi - Teknosa",
@@ -2605,7 +2607,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 58000,
     "currentPrice": 71999,
-    "lastUpdated": "2025-06-23T21:23:05.122Z"
+    "lastUpdated": "2025-06-23T22:02:32.285Z"
   },
   {
     "name": "iPhone 16 Plus 128GB Pembe - Trendyol",
@@ -2615,7 +2617,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 58000,
     "currentPrice": 71899,
-    "lastUpdated": "2025-06-23T21:23:05.491Z"
+    "lastUpdated": "2025-06-23T22:02:32.613Z"
   },
   {
     "name": "iPhone 16 Plus 128GB Pembe - Hepsiburada",
@@ -2649,7 +2651,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 58000,
     "currentPrice": 67939,
-    "lastUpdated": "2025-06-23T21:23:07.177Z"
+    "lastUpdated": "2025-06-23T22:02:35.331Z"
   },
   {
     "name": "iPhone 16 Plus 128GB Pembe - Vatan",
@@ -2659,7 +2661,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 58000,
     "currentPrice": 67939,
-    "lastUpdated": "2025-06-23T21:23:07.664Z"
+    "lastUpdated": "2025-06-23T22:02:35.946Z"
   },
   {
     "name": "iPhone 16 Plus 128GB Beyaz - Trendyol",
@@ -2669,7 +2671,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 58000,
     "currentPrice": 71899,
-    "lastUpdated": "2025-06-23T21:23:07.960Z"
+    "lastUpdated": "2025-06-23T22:02:36.257Z"
   },
   {
     "name": "iPhone 16 Plus 128GB Beyaz - Hepsiburada",
@@ -2703,7 +2705,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 58000,
     "currentPrice": 67939,
-    "lastUpdated": "2025-06-23T21:23:11.284Z"
+    "lastUpdated": "2025-06-23T22:02:38.982Z"
   },
   {
     "name": "iPhone 16 Plus 128GB Beyaz - Vatan",
@@ -2713,7 +2715,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 58000,
     "currentPrice": 67939,
-    "lastUpdated": "2025-06-23T21:23:11.778Z"
+    "lastUpdated": "2025-06-23T22:02:39.384Z"
   },
   {
     "name": "iPhone 16 Plus 128GB Beyaz - Teknosa",
@@ -2723,7 +2725,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 58000,
     "currentPrice": 71999,
-    "lastUpdated": "2025-06-23T21:23:12.506Z"
+    "lastUpdated": "2025-06-23T22:02:40.388Z"
   },
   {
     "name": "iPhone 16 Plus 128GB Siyah - Trendyol",
@@ -2733,7 +2735,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 58000,
     "currentPrice": 69499,
-    "lastUpdated": "2025-06-23T21:23:12.848Z"
+    "lastUpdated": "2025-06-23T22:02:40.730Z"
   },
   {
     "name": "iPhone 16 Plus 128GB Siyah - Hepsiburada",
@@ -2767,7 +2769,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 58000,
     "currentPrice": 67939,
-    "lastUpdated": "2025-06-23T21:23:15.599Z"
+    "lastUpdated": "2025-06-23T22:02:41.935Z"
   },
   {
     "name": "iPhone 16 Plus 128GB Siyah - Vatan",
@@ -2777,7 +2779,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 58000,
     "currentPrice": 67939,
-    "lastUpdated": "2025-06-23T21:23:16.160Z"
+    "lastUpdated": "2025-06-23T22:02:42.430Z"
   },
   {
     "name": "iPhone 16 Plus 128GB Siyah - Teknosa",
@@ -2795,7 +2797,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 60000,
     "currentPrice": 75999,
-    "lastUpdated": "2025-06-23T21:23:17.467Z"
+    "lastUpdated": "2025-06-23T22:02:43.522Z"
   },
   {
     "name": "iPhone 16 Plus 256GB Laciverttas - Hepsiburada",
@@ -2829,7 +2831,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 60000,
     "currentPrice": 79799,
-    "lastUpdated": "2025-06-23T21:23:20.056Z"
+    "lastUpdated": "2025-06-23T22:02:46.205Z"
   },
   {
     "name": "iPhone 16 Plus 256GB Laciverttas - Vatan",
@@ -2839,7 +2841,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 60000,
     "currentPrice": 79799,
-    "lastUpdated": "2025-06-23T21:23:20.590Z"
+    "lastUpdated": "2025-06-23T22:02:46.612Z"
   },
   {
     "name": "iPhone 16 Plus 256GB Deniz Mavisi - Trendyol",
@@ -2849,7 +2851,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 60000,
     "currentPrice": 84999,
-    "lastUpdated": "2025-06-23T21:23:20.904Z"
+    "lastUpdated": "2025-06-23T22:02:47.016Z"
   },
   {
     "name": "iPhone 16 Plus 256GB Deniz Mavisi - Hepsiburada",
@@ -2883,7 +2885,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 60000,
     "currentPrice": 79799,
-    "lastUpdated": "2025-06-23T21:23:23.233Z"
+    "lastUpdated": "2025-06-23T22:02:47.991Z"
   },
   {
     "name": "iPhone 16 Plus 256GB Deniz Mavisi - Vatan",
@@ -2893,7 +2895,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 60000,
     "currentPrice": 79799,
-    "lastUpdated": "2025-06-23T21:23:23.636Z"
+    "lastUpdated": "2025-06-23T22:02:48.461Z"
   },
   {
     "name": "iPhone 16 Plus 256GB Pembe - Trendyol",
@@ -2903,7 +2905,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 60000,
     "currentPrice": 89999,
-    "lastUpdated": "2025-06-23T21:23:23.944Z"
+    "lastUpdated": "2025-06-23T22:02:48.805Z"
   },
   {
     "name": "iPhone 16 Plus 256GB Pembe - Hepsiburada",
@@ -2937,7 +2939,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 60000,
     "currentPrice": 79799,
-    "lastUpdated": "2025-06-23T21:23:24.810Z"
+    "lastUpdated": "2025-06-23T22:02:49.695Z"
   },
   {
     "name": "iPhone 16 Plus 256GB Pembe - Vatan",
@@ -2947,7 +2949,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 60000,
     "currentPrice": 79799,
-    "lastUpdated": "2025-06-23T21:23:25.281Z"
+    "lastUpdated": "2025-06-23T22:02:50.241Z"
   },
   {
     "name": "iPhone 16 Plus 256GB Beyaz - Trendyol",
@@ -2957,7 +2959,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 60000,
     "currentPrice": 72499,
-    "lastUpdated": "2025-06-23T21:23:25.585Z"
+    "lastUpdated": "2025-06-23T22:02:50.575Z"
   },
   {
     "name": "iPhone 16 Plus 256GB Beyaz - Hepsiburada",
@@ -2991,7 +2993,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 60000,
     "currentPrice": 79799,
-    "lastUpdated": "2025-06-23T21:23:27.360Z"
+    "lastUpdated": "2025-06-23T22:02:55.405Z"
   },
   {
     "name": "iPhone 16 Plus 256GB Beyaz - Vatan",
@@ -3001,7 +3003,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 60000,
     "currentPrice": 79799,
-    "lastUpdated": "2025-06-23T21:23:27.859Z"
+    "lastUpdated": "2025-06-23T22:02:55.856Z"
   },
   {
     "name": "iPhone 16 Plus 256GB Beyaz - Teknosa",
@@ -3019,7 +3021,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 60000,
     "currentPrice": 77099,
-    "lastUpdated": "2025-06-23T21:23:28.971Z"
+    "lastUpdated": "2025-06-23T22:02:56.934Z"
   },
   {
     "name": "iPhone 16 Plus 256GB Siyah - Hepsiburada",
@@ -3053,7 +3055,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 60000,
     "currentPrice": 79799,
-    "lastUpdated": "2025-06-23T21:23:31.696Z"
+    "lastUpdated": "2025-06-23T22:02:57.959Z"
   },
   {
     "name": "iPhone 16 Plus 256GB Siyah - Vatan",
@@ -3063,7 +3065,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 60000,
     "currentPrice": 79799,
-    "lastUpdated": "2025-06-23T21:23:32.168Z"
+    "lastUpdated": "2025-06-23T22:02:58.554Z"
   },
   {
     "name": "iPhone 16 Plus 256GB Siyah - Teknosa",
@@ -3105,7 +3107,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 63000,
     "currentPrice": 77999,
-    "lastUpdated": "2025-06-23T21:23:34.031Z"
+    "lastUpdated": "2025-06-23T22:03:00.260Z"
   },
   {
     "name": "iPhone 16 Plus 512GB Laciverttas - Vatan",
@@ -3115,7 +3117,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 63000,
     "currentPrice": 77999,
-    "lastUpdated": "2025-06-23T21:23:34.500Z"
+    "lastUpdated": "2025-06-23T22:03:00.755Z"
   },
   {
     "name": "iPhone 16 Plus 512GB Deniz Mavisi - Hepsiburada",
@@ -3141,7 +3143,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 63000,
     "currentPrice": 77999,
-    "lastUpdated": "2025-06-23T21:23:36.509Z"
+    "lastUpdated": "2025-06-23T22:03:02.959Z"
   },
   {
     "name": "iPhone 16 Plus 512GB Deniz Mavisi - Vatan",
@@ -3151,7 +3153,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 63000,
     "currentPrice": 77999,
-    "lastUpdated": "2025-06-23T21:23:36.958Z"
+    "lastUpdated": "2025-06-23T22:03:03.406Z"
   },
   {
     "name": "iPhone 16 Plus 512GB Pembe - Trendyol",
@@ -3161,7 +3163,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 63000,
     "currentPrice": 200000,
-    "lastUpdated": "2025-06-23T21:23:37.289Z"
+    "lastUpdated": "2025-06-23T22:03:03.755Z"
   },
   {
     "name": "iPhone 16 Plus 512GB Pembe - Hepsiburada",
@@ -3195,7 +3197,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 63000,
     "currentPrice": 77999,
-    "lastUpdated": "2025-06-23T21:23:40.473Z"
+    "lastUpdated": "2025-06-23T22:03:04.804Z"
   },
   {
     "name": "iPhone 16 Plus 512GB Pembe - Vatan",
@@ -3205,7 +3207,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 63000,
     "currentPrice": 77999,
-    "lastUpdated": "2025-06-23T21:23:41.032Z"
+    "lastUpdated": "2025-06-23T22:03:05.280Z"
   },
   {
     "name": "iPhone 16 Plus 512GB Pembe - Teknosa",
@@ -3223,7 +3225,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 63000,
     "currentPrice": 89247,
-    "lastUpdated": "2025-06-23T21:23:42.081Z"
+    "lastUpdated": "2025-06-23T22:03:06.411Z"
   },
   {
     "name": "iPhone 16 Plus 512GB Beyaz - Hepsiburada",
@@ -3257,7 +3259,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 63000,
     "currentPrice": 77999,
-    "lastUpdated": "2025-06-23T21:23:43.787Z"
+    "lastUpdated": "2025-06-23T22:03:08.610Z"
   },
   {
     "name": "iPhone 16 Plus 512GB Beyaz - Vatan",
@@ -3267,7 +3269,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 63000,
     "currentPrice": 77999,
-    "lastUpdated": "2025-06-23T21:23:44.265Z"
+    "lastUpdated": "2025-06-23T22:03:09.035Z"
   },
   {
     "name": "iPhone 16 Plus 512GB Siyah - Hepsiburada",
@@ -3285,7 +3287,7 @@
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
     "target_price": 63000,
     "currentPrice": 77999,
-    "lastUpdated": "2025-06-23T21:23:46.227Z"
+    "lastUpdated": "2025-06-23T22:03:11.099Z"
   },
   {
     "name": "iPhone 16 Plus 512GB Siyah - Mediamarkt",
@@ -3295,7 +3297,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 63000,
     "currentPrice": 77999,
-    "lastUpdated": "2025-06-23T21:23:46.892Z"
+    "lastUpdated": "2025-06-23T22:03:12.476Z"
   },
   {
     "name": "iPhone 16 Plus 512GB Siyah - Vatan",
@@ -3305,7 +3307,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 63000,
     "currentPrice": 77999,
-    "lastUpdated": "2025-06-23T21:23:47.472Z"
+    "lastUpdated": "2025-06-23T22:03:12.973Z"
   },
   {
     "name": "iPhone 16e 128GB Siyah - Trendyol",
@@ -3315,7 +3317,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 38000,
     "currentPrice": 44499,
-    "lastUpdated": "2025-06-23T21:23:47.821Z"
+    "lastUpdated": "2025-06-23T22:03:13.292Z"
   },
   {
     "name": "iPhone 16e 128GB Siyah - Hepsiburada",
@@ -3333,7 +3335,7 @@
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
     "target_price": 38000,
     "currentPrice": 42699,
-    "lastUpdated": "2025-06-23T21:23:49.740Z"
+    "lastUpdated": "2025-06-23T22:03:15.377Z"
   },
   {
     "name": "iPhone 16e 128GB Siyah - N11",
@@ -3351,7 +3353,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 38000,
     "currentPrice": 42999,
-    "lastUpdated": "2025-06-23T21:23:50.382Z"
+    "lastUpdated": "2025-06-23T22:03:16.228Z"
   },
   {
     "name": "iPhone 16e 128GB Siyah - Vatan",
@@ -3361,7 +3363,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 38000,
     "currentPrice": 42999,
-    "lastUpdated": "2025-06-23T21:23:50.845Z"
+    "lastUpdated": "2025-06-23T22:03:16.671Z"
   },
   {
     "name": "iPhone 16e 128GB Siyah - Teknosa",
@@ -3379,7 +3381,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 38000,
     "currentPrice": 44845,
-    "lastUpdated": "2025-06-23T21:23:52.004Z"
+    "lastUpdated": "2025-06-23T22:03:17.836Z"
   },
   {
     "name": "iPhone 16e 128GB Beyaz - Hepsiburada",
@@ -3395,9 +3397,7 @@
     "price_selector": "#corePrice_feature_div > div > div > span.a-price.aok-align-center > span.a-offscreen",
     "add_to_cart_selector": "input#add-to-cart-button",
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
-    "target_price": 38000,
-    "currentPrice": 47938.98,
-    "lastUpdated": "2025-06-23T21:23:54.332Z"
+    "target_price": 38000
   },
   {
     "name": "iPhone 16e 128GB Beyaz - N11",
@@ -3415,7 +3415,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 38000,
     "currentPrice": 42999,
-    "lastUpdated": "2025-06-23T21:23:55.785Z"
+    "lastUpdated": "2025-06-23T22:03:18.874Z"
   },
   {
     "name": "iPhone 16e 128GB Beyaz - Vatan",
@@ -3425,7 +3425,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 38000,
     "currentPrice": 42999,
-    "lastUpdated": "2025-06-23T21:23:56.168Z"
+    "lastUpdated": "2025-06-23T22:03:19.410Z"
   },
   {
     "name": "iPhone 16e 128GB Beyaz - Teknosa",
@@ -3435,7 +3435,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 38000,
     "currentPrice": 42999,
-    "lastUpdated": "2025-06-23T21:23:57.088Z"
+    "lastUpdated": "2025-06-23T22:03:20.194Z"
   },
   {
     "name": "iPhone 16e 256GB Siyah - Trendyol",
@@ -3445,7 +3445,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 42000,
     "currentPrice": 50999,
-    "lastUpdated": "2025-06-23T21:23:57.410Z"
+    "lastUpdated": "2025-06-23T22:03:20.532Z"
   },
   {
     "name": "iPhone 16e 256GB Siyah - Hepsiburada",
@@ -3461,7 +3461,9 @@
     "price_selector": "#corePrice_feature_div > div > div > span.a-price.aok-align-center > span.a-offscreen",
     "add_to_cart_selector": "input#add-to-cart-button",
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
-    "target_price": 42000
+    "target_price": 42000,
+    "currentPrice": 42699,
+    "lastUpdated": "2025-06-23T22:03:22.601Z"
   },
   {
     "name": "iPhone 16e 256GB Siyah - N11",
@@ -3479,7 +3481,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 42000,
     "currentPrice": 48999,
-    "lastUpdated": "2025-06-23T21:23:58.493Z"
+    "lastUpdated": "2025-06-23T22:03:23.391Z"
   },
   {
     "name": "iPhone 16e 256GB Siyah - Vatan",
@@ -3489,7 +3491,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 42000,
     "currentPrice": 49999,
-    "lastUpdated": "2025-06-23T21:23:59.011Z"
+    "lastUpdated": "2025-06-23T22:03:23.840Z"
   },
   {
     "name": "iPhone 16e 256GB Siyah - Teknosa",
@@ -3507,7 +3509,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 42000,
     "currentPrice": 50999,
-    "lastUpdated": "2025-06-23T21:24:00.149Z"
+    "lastUpdated": "2025-06-23T22:03:24.833Z"
   },
   {
     "name": "iPhone 16e 256GB Beyaz - Hepsiburada",
@@ -3541,7 +3543,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 42000,
     "currentPrice": 48999,
-    "lastUpdated": "2025-06-23T21:24:02.619Z"
+    "lastUpdated": "2025-06-23T22:03:25.945Z"
   },
   {
     "name": "iPhone 16e 256GB Beyaz - Vatan",
@@ -3551,7 +3553,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 42000,
     "currentPrice": 49999,
-    "lastUpdated": "2025-06-23T21:24:03.124Z"
+    "lastUpdated": "2025-06-23T22:03:26.401Z"
   },
   {
     "name": "iPhone 16e 256GB Beyaz - Teknosa",
@@ -3569,7 +3571,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 45000,
     "currentPrice": 61055.04,
-    "lastUpdated": "2025-06-23T21:24:04.142Z"
+    "lastUpdated": "2025-06-23T22:03:27.459Z"
   },
   {
     "name": "iPhone 16e 512GB Siyah - Hepsiburada",
@@ -3587,7 +3589,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 45000,
     "currentPrice": 59999,
-    "lastUpdated": "2025-06-23T21:24:04.890Z"
+    "lastUpdated": "2025-06-23T22:03:28.333Z"
   },
   {
     "name": "iPhone 16e 512GB Siyah - Vatan",
@@ -3597,7 +3599,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 45000,
     "currentPrice": 59999,
-    "lastUpdated": "2025-06-23T21:24:05.392Z"
+    "lastUpdated": "2025-06-23T22:03:28.718Z"
   },
   {
     "name": "iPhone 16e 512GB Siyah - Teknosa",
@@ -3607,7 +3609,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 45000,
     "currentPrice": 62999,
-    "lastUpdated": "2025-06-23T21:24:06.145Z"
+    "lastUpdated": "2025-06-23T22:03:29.486Z"
   },
   {
     "name": "iPhone 16e 512GB Beyaz - Trendyol",
@@ -3617,7 +3619,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 45000,
     "currentPrice": 63499,
-    "lastUpdated": "2025-06-23T21:24:06.454Z"
+    "lastUpdated": "2025-06-23T22:03:29.821Z"
   },
   {
     "name": "iPhone 16e 512GB Beyaz - Hepsiburada",
@@ -3635,7 +3637,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 45000,
     "currentPrice": 59999,
-    "lastUpdated": "2025-06-23T21:24:09.003Z"
+    "lastUpdated": "2025-06-23T22:03:30.802Z"
   },
   {
     "name": "iPhone 16e 512GB Beyaz - Vatan",
@@ -3645,7 +3647,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 45000,
     "currentPrice": 59999,
-    "lastUpdated": "2025-06-23T21:24:09.501Z"
+    "lastUpdated": "2025-06-23T22:03:31.241Z"
   },
   {
     "name": "iPhone 16e 512GB Beyaz - Teknosa",
@@ -3655,7 +3657,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 45000,
     "currentPrice": 62999,
-    "lastUpdated": "2025-06-23T21:24:10.332Z"
+    "lastUpdated": "2025-06-23T22:03:32.012Z"
   },
   {
     "name": "iPhone 16 Pro 128GB Cöl Titanyum - Trendyol",
@@ -3665,7 +3667,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 78000,
     "currentPrice": 79449,
-    "lastUpdated": "2025-06-23T21:24:10.681Z"
+    "lastUpdated": "2025-06-23T22:03:32.345Z"
   },
   {
     "name": "iPhone 16 Pro 128GB Cöl Titanyum - Hepsiburada",
@@ -3691,7 +3693,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 78000,
     "currentPrice": 79449,
-    "lastUpdated": "2025-06-23T21:24:11.591Z"
+    "lastUpdated": "2025-06-23T22:03:33.354Z"
   },
   {
     "name": "iPhone 16 Pro 128GB Cöl Titanyum - Vatan",
@@ -3701,7 +3703,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 78000,
     "currentPrice": 79449,
-    "lastUpdated": "2025-06-23T21:24:11.978Z"
+    "lastUpdated": "2025-06-23T22:03:33.804Z"
   },
   {
     "name": "iPhone 16 Pro 128GB Cöl Titanyum - Teknosa",
@@ -3711,7 +3713,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 78000,
     "currentPrice": 79449,
-    "lastUpdated": "2025-06-23T21:24:12.913Z"
+    "lastUpdated": "2025-06-23T22:03:34.582Z"
   },
   {
     "name": "iPhone 16 Pro 128GB Natürel Titanyum - Trendyol",
@@ -3721,7 +3723,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 78000,
     "currentPrice": 79449,
-    "lastUpdated": "2025-06-23T21:24:13.234Z"
+    "lastUpdated": "2025-06-23T22:03:34.945Z"
   },
   {
     "name": "iPhone 16 Pro 128GB Natürel Titanyum - Hepsiburada",
@@ -3747,7 +3749,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 78000,
     "currentPrice": 77639,
-    "lastUpdated": "2025-06-23T21:24:14.067Z"
+    "lastUpdated": "2025-06-23T22:03:35.911Z"
   },
   {
     "name": "iPhone 16 Pro 128GB Natürel Titanyum - Vatan",
@@ -3757,7 +3759,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 78000,
     "currentPrice": 77639,
-    "lastUpdated": "2025-06-23T21:24:14.477Z"
+    "lastUpdated": "2025-06-23T22:03:36.320Z"
   },
   {
     "name": "iPhone 16 Pro 128GB Natürel Titanyum - Teknosa",
@@ -3767,7 +3769,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 78000,
     "currentPrice": 79449,
-    "lastUpdated": "2025-06-23T21:24:15.382Z"
+    "lastUpdated": "2025-06-23T22:03:37.221Z"
   },
   {
     "name": "iPhone 16 Pro 128GB Beyaz Titanyum - Trendyol",
@@ -3777,7 +3779,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 78000,
     "currentPrice": 79449,
-    "lastUpdated": "2025-06-23T21:24:15.704Z"
+    "lastUpdated": "2025-06-23T22:03:37.547Z"
   },
   {
     "name": "iPhone 16 Pro 128GB Beyaz Titanyum - Hepsiburada",
@@ -3811,7 +3813,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 78000,
     "currentPrice": 79449,
-    "lastUpdated": "2025-06-23T21:24:18.219Z"
+    "lastUpdated": "2025-06-23T22:03:38.842Z"
   },
   {
     "name": "iPhone 16 Pro 128GB Beyaz Titanyum - Vatan",
@@ -3821,7 +3823,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 78000,
     "currentPrice": 79449,
-    "lastUpdated": "2025-06-23T21:24:18.686Z"
+    "lastUpdated": "2025-06-23T22:03:39.278Z"
   },
   {
     "name": "iPhone 16 Pro 128GB Beyaz Titanyum - Teknosa",
@@ -3839,7 +3841,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 78000,
     "currentPrice": 79449,
-    "lastUpdated": "2025-06-23T21:24:19.837Z"
+    "lastUpdated": "2025-06-23T22:03:40.449Z"
   },
   {
     "name": "iPhone 16 Pro 128GB Siyah Titanyum - Hepsiburada",
@@ -3873,7 +3875,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 78000,
     "currentPrice": 79449,
-    "lastUpdated": "2025-06-23T21:24:20.843Z"
+    "lastUpdated": "2025-06-23T22:03:43.002Z"
   },
   {
     "name": "iPhone 16 Pro 128GB Siyah Titanyum - Vatan",
@@ -3883,7 +3885,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 78000,
     "currentPrice": 79449,
-    "lastUpdated": "2025-06-23T21:24:21.241Z"
+    "lastUpdated": "2025-06-23T22:03:43.429Z"
   },
   {
     "name": "iPhone 16 Pro 128GB Siyah Titanyum - Teknosa",
@@ -3893,7 +3895,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 78000,
     "currentPrice": 79449,
-    "lastUpdated": "2025-06-23T21:24:22.054Z"
+    "lastUpdated": "2025-06-23T22:03:44.242Z"
   },
   {
     "name": "iPhone 16 Pro 256GB Cöl Titanyum - Trendyol",
@@ -3903,7 +3905,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 81000,
     "currentPrice": 86699,
-    "lastUpdated": "2025-06-23T21:24:22.384Z"
+    "lastUpdated": "2025-06-23T22:03:44.599Z"
   },
   {
     "name": "iPhone 16 Pro 256GB Cöl Titanyum - Hepsiburada",
@@ -3929,7 +3931,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 81000,
     "currentPrice": 84999,
-    "lastUpdated": "2025-06-23T21:24:23.350Z"
+    "lastUpdated": "2025-06-23T22:03:45.565Z"
   },
   {
     "name": "iPhone 16 Pro 256GB Cöl Titanyum - Vatan",
@@ -3939,7 +3941,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 81000,
     "currentPrice": 84999,
-    "lastUpdated": "2025-06-23T21:24:23.768Z"
+    "lastUpdated": "2025-06-23T22:03:46.167Z"
   },
   {
     "name": "iPhone 16 Pro 256GB Cöl Titanyum - Teknosa",
@@ -3957,7 +3959,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 81000,
     "currentPrice": 84999,
-    "lastUpdated": "2025-06-23T21:24:24.849Z"
+    "lastUpdated": "2025-06-23T22:03:47.387Z"
   },
   {
     "name": "iPhone 16 Pro 256GB Natürel Titanyum - Hepsiburada",
@@ -3983,7 +3985,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 81000,
     "currentPrice": 84999,
-    "lastUpdated": "2025-06-23T21:24:25.696Z"
+    "lastUpdated": "2025-06-23T22:03:48.248Z"
   },
   {
     "name": "iPhone 16 Pro 256GB Natürel Titanyum - Vatan",
@@ -3993,7 +3995,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 81000,
     "currentPrice": 84999,
-    "lastUpdated": "2025-06-23T21:24:26.324Z"
+    "lastUpdated": "2025-06-23T22:03:48.696Z"
   },
   {
     "name": "iPhone 16 Pro 256GB Natürel Titanyum - Teknosa",
@@ -4011,7 +4013,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 81000,
     "currentPrice": 84999,
-    "lastUpdated": "2025-06-23T21:24:27.597Z"
+    "lastUpdated": "2025-06-23T22:03:49.821Z"
   },
   {
     "name": "iPhone 16 Pro 256GB Beyaz Titanyum - Hepsiburada",
@@ -4037,7 +4039,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 81000,
     "currentPrice": 84999,
-    "lastUpdated": "2025-06-23T21:24:28.488Z"
+    "lastUpdated": "2025-06-23T22:03:50.717Z"
   },
   {
     "name": "iPhone 16 Pro 256GB Beyaz Titanyum - Vatan",
@@ -4047,7 +4049,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 81000,
     "currentPrice": 84999,
-    "lastUpdated": "2025-06-23T21:24:28.868Z"
+    "lastUpdated": "2025-06-23T22:03:51.124Z"
   },
   {
     "name": "iPhone 16 Pro 256GB Beyaz Titanyum - Teknosa",
@@ -4065,7 +4067,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 81000,
     "currentPrice": 84999,
-    "lastUpdated": "2025-06-23T21:24:29.919Z"
+    "lastUpdated": "2025-06-23T22:03:52.172Z"
   },
   {
     "name": "iPhone 16 Pro 256GB Siyah Titanyum - Hepsiburada",
@@ -4099,7 +4101,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 81000,
     "currentPrice": 84999,
-    "lastUpdated": "2025-06-23T21:24:31.009Z"
+    "lastUpdated": "2025-06-23T22:03:53.234Z"
   },
   {
     "name": "iPhone 16 Pro 256GB Siyah Titanyum - Vatan",
@@ -4109,7 +4111,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 81000,
     "currentPrice": 84999,
-    "lastUpdated": "2025-06-23T21:24:31.595Z"
+    "lastUpdated": "2025-06-23T22:03:53.725Z"
   },
   {
     "name": "iPhone 16 Pro 256GB Siyah Titanyum - Teknosa",
@@ -4127,7 +4129,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 83000,
     "currentPrice": 102499,
-    "lastUpdated": "2025-06-23T21:24:32.688Z"
+    "lastUpdated": "2025-06-23T22:03:54.739Z"
   },
   {
     "name": "iPhone 16 Pro 512GB Cöl Titanyum - Hepsiburada",
@@ -4161,7 +4163,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 83000,
     "currentPrice": 101799,
-    "lastUpdated": "2025-06-23T21:24:35.144Z"
+    "lastUpdated": "2025-06-23T22:03:55.848Z"
   },
   {
     "name": "iPhone 16 Pro 512GB Cöl Titanyum - Vatan",
@@ -4171,7 +4173,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 83000,
     "currentPrice": 101799,
-    "lastUpdated": "2025-06-23T21:24:35.632Z"
+    "lastUpdated": "2025-06-23T22:03:56.409Z"
   },
   {
     "name": "iPhone 16 Pro 512GB Cöl Titanyum - Teknosa",
@@ -4195,7 +4197,9 @@
     "price_selector": "#corePrice_feature_div > div > div > span.a-price.aok-align-center > span.a-offscreen",
     "add_to_cart_selector": "input#add-to-cart-button",
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
-    "target_price": 83000
+    "target_price": 83000,
+    "currentPrice": 111502.2,
+    "lastUpdated": "2025-06-23T22:03:59.244Z"
   },
   {
     "name": "iPhone 16 Pro 512GB Natürel Titanyum - Mediamarkt",
@@ -4205,7 +4209,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 83000,
     "currentPrice": 101799,
-    "lastUpdated": "2025-06-23T21:24:37.271Z"
+    "lastUpdated": "2025-06-23T22:04:01.929Z"
   },
   {
     "name": "iPhone 16 Pro 512GB Natürel Titanyum - Vatan",
@@ -4215,7 +4219,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 83000,
     "currentPrice": 101799,
-    "lastUpdated": "2025-06-23T21:24:37.735Z"
+    "lastUpdated": "2025-06-23T22:04:02.513Z"
   },
   {
     "name": "iPhone 16 Pro 512GB Natürel Titanyum - Teknosa",
@@ -4233,7 +4237,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 83000,
     "currentPrice": 99499,
-    "lastUpdated": "2025-06-23T21:24:38.785Z"
+    "lastUpdated": "2025-06-23T22:04:03.575Z"
   },
   {
     "name": "iPhone 16 Pro 512GB Beyaz Titanyum - Hepsiburada",
@@ -4267,7 +4271,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 83000,
     "currentPrice": 101799,
-    "lastUpdated": "2025-06-23T21:24:39.752Z"
+    "lastUpdated": "2025-06-23T22:04:04.798Z"
   },
   {
     "name": "iPhone 16 Pro 512GB Beyaz Titanyum - Vatan",
@@ -4277,7 +4281,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 83000,
     "currentPrice": 101799,
-    "lastUpdated": "2025-06-23T21:24:40.239Z"
+    "lastUpdated": "2025-06-23T22:04:05.281Z"
   },
   {
     "name": "iPhone 16 Pro 512GB Beyaz Titanyum - Teknosa",
@@ -4303,7 +4307,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 83000,
     "currentPrice": 101799,
-    "lastUpdated": "2025-06-23T21:24:41.581Z"
+    "lastUpdated": "2025-06-23T22:04:06.805Z"
   },
   {
     "name": "iPhone 16 Pro 512GB Siyah Titanyum - Vatan",
@@ -4313,7 +4317,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 83000,
     "currentPrice": 101799,
-    "lastUpdated": "2025-06-23T21:24:41.989Z"
+    "lastUpdated": "2025-06-23T22:04:07.339Z"
   },
   {
     "name": "iPhone 16 Pro 512GB Siyah Titanyum - Teknosa",
@@ -4331,7 +4335,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 85000,
     "currentPrice": 110998.99,
-    "lastUpdated": "2025-06-23T21:24:43.002Z"
+    "lastUpdated": "2025-06-23T22:04:08.380Z"
   },
   {
     "name": "iPhone 16 Pro 1TB Cöl Titanyum - Hepsiburada",
@@ -4349,7 +4353,7 @@
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
     "target_price": 85000,
     "currentPrice": 111552.06,
-    "lastUpdated": "2025-06-23T21:24:45.016Z"
+    "lastUpdated": "2025-06-23T22:04:10.467Z"
   },
   {
     "name": "iPhone 16 Pro 1TB Cöl Titanyum - N11",
@@ -4367,7 +4371,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 85000,
     "currentPrice": 112499,
-    "lastUpdated": "2025-06-23T21:24:45.910Z"
+    "lastUpdated": "2025-06-23T22:04:11.269Z"
   },
   {
     "name": "iPhone 16 Pro 1TB Cöl Titanyum - Vatan",
@@ -4377,7 +4381,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 85000,
     "currentPrice": 112499,
-    "lastUpdated": "2025-06-23T21:24:46.365Z"
+    "lastUpdated": "2025-06-23T22:04:11.819Z"
   },
   {
     "name": "iPhone 16 Pro 1TB Cöl Titanyum - Teknosa",
@@ -4403,7 +4407,7 @@
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
     "target_price": 85000,
     "currentPrice": 111502.2,
-    "lastUpdated": "2025-06-23T21:24:49.248Z"
+    "lastUpdated": "2025-06-23T22:04:14.606Z"
   },
   {
     "name": "iPhone 16 Pro 1TB Natürel Titanyum - N11",
@@ -4421,7 +4425,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 85000,
     "currentPrice": 112499,
-    "lastUpdated": "2025-06-23T21:24:49.992Z"
+    "lastUpdated": "2025-06-23T22:04:15.319Z"
   },
   {
     "name": "iPhone 16 Pro 1TB Natürel Titanyum - Vatan",
@@ -4431,7 +4435,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 85000,
     "currentPrice": 112499,
-    "lastUpdated": "2025-06-23T21:24:50.480Z"
+    "lastUpdated": "2025-06-23T22:04:15.783Z"
   },
   {
     "name": "iPhone 16 Pro 1TB Natürel Titanyum - Teknosa",
@@ -4449,7 +4453,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 85000,
     "currentPrice": 106999,
-    "lastUpdated": "2025-06-23T21:24:51.633Z"
+    "lastUpdated": "2025-06-23T22:04:16.973Z"
   },
   {
     "name": "iPhone 16 Pro 1TB Beyaz Titanyum - Hepsiburada",
@@ -4465,9 +4469,7 @@
     "price_selector": "#corePrice_feature_div > div > div > span.a-price.aok-align-center > span.a-offscreen",
     "add_to_cart_selector": "input#add-to-cart-button",
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
-    "target_price": 85000,
-    "currentPrice": 111299,
-    "lastUpdated": "2025-06-23T21:24:53.779Z"
+    "target_price": 85000
   },
   {
     "name": "iPhone 16 Pro 1TB Beyaz Titanyum - Mediamarkt",
@@ -4477,7 +4479,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 85000,
     "currentPrice": 112499,
-    "lastUpdated": "2025-06-23T21:24:57.587Z"
+    "lastUpdated": "2025-06-23T22:04:18.239Z"
   },
   {
     "name": "iPhone 16 Pro 1TB Beyaz Titanyum - Vatan",
@@ -4487,7 +4489,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 85000,
     "currentPrice": 112499,
-    "lastUpdated": "2025-06-23T21:24:58.142Z"
+    "lastUpdated": "2025-06-23T22:04:18.654Z"
   },
   {
     "name": "iPhone 16 Pro 1TB Beyaz Titanyum - Teknosa",
@@ -4505,7 +4507,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 85000,
     "currentPrice": 114999,
-    "lastUpdated": "2025-06-23T21:24:59.199Z"
+    "lastUpdated": "2025-06-23T22:04:19.734Z"
   },
   {
     "name": "iPhone 16 Pro 1TB Siyah Titanyum - Amazon",
@@ -4513,7 +4515,9 @@
     "price_selector": "#corePrice_feature_div > div > div > span.a-price.aok-align-center > span.a-offscreen",
     "add_to_cart_selector": "input#add-to-cart-button",
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
-    "target_price": 85000
+    "target_price": 85000,
+    "currentPrice": 112499,
+    "lastUpdated": "2025-06-23T22:04:21.669Z"
   },
   {
     "name": "iPhone 16 Pro 1TB Siyah Titanyum - Mediamarkt",
@@ -4523,7 +4527,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 85000,
     "currentPrice": 112499,
-    "lastUpdated": "2025-06-23T21:25:00.840Z"
+    "lastUpdated": "2025-06-23T22:04:22.289Z"
   },
   {
     "name": "iPhone 16 Pro 1TB Siyah Titanyum - Vatan",
@@ -4533,7 +4537,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 85000,
     "currentPrice": 112499,
-    "lastUpdated": "2025-06-23T21:25:01.380Z"
+    "lastUpdated": "2025-06-23T22:04:22.904Z"
   },
   {
     "name": "iPhone 16 Pro Max 256GB Cöl Titanyum - Trendyol",
@@ -4543,7 +4547,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 91000,
     "currentPrice": 97999,
-    "lastUpdated": "2025-06-23T21:25:01.775Z"
+    "lastUpdated": "2025-06-23T22:04:23.302Z"
   },
   {
     "name": "iPhone 16 Pro Max 256GB Cöl Titanyum - Hepsiburada",
@@ -4561,7 +4565,7 @@
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
     "target_price": 91000,
     "currentPrice": 94999.2,
-    "lastUpdated": "2025-06-23T21:25:03.954Z"
+    "lastUpdated": "2025-06-23T22:04:25.482Z"
   },
   {
     "name": "iPhone 16 Pro Max 256GB Cöl Titanyum - N11",
@@ -4579,7 +4583,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 91000,
     "currentPrice": 97999,
-    "lastUpdated": "2025-06-23T21:25:04.577Z"
+    "lastUpdated": "2025-06-23T22:04:26.222Z"
   },
   {
     "name": "iPhone 16 Pro Max 256GB Cöl Titanyum - Vatan",
@@ -4589,7 +4593,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 91000,
     "currentPrice": 97999,
-    "lastUpdated": "2025-06-23T21:25:05.054Z"
+    "lastUpdated": "2025-06-23T22:04:26.619Z"
   },
   {
     "name": "iPhone 16 Pro Max 256GB Cöl Titanyum - Teknosa",
@@ -4599,7 +4603,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 91000,
     "currentPrice": 97999,
-    "lastUpdated": "2025-06-23T21:25:05.974Z"
+    "lastUpdated": "2025-06-23T22:04:27.560Z"
   },
   {
     "name": "iPhone 16 Pro Max 256GB Natürel Titanyum - Trendyol",
@@ -4609,7 +4613,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 91000,
     "currentPrice": 97949,
-    "lastUpdated": "2025-06-23T21:25:06.298Z"
+    "lastUpdated": "2025-06-23T22:04:27.923Z"
   },
   {
     "name": "iPhone 16 Pro Max 256GB Natürel Titanyum - Hepsiburada",
@@ -4627,7 +4631,7 @@
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
     "target_price": 91000,
     "currentPrice": 94999.2,
-    "lastUpdated": "2025-06-23T21:25:08.354Z"
+    "lastUpdated": "2025-06-23T22:04:29.942Z"
   },
   {
     "name": "iPhone 16 Pro Max 256GB Natürel Titanyum - N11",
@@ -4645,7 +4649,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 91000,
     "currentPrice": 94349,
-    "lastUpdated": "2025-06-23T21:25:09.085Z"
+    "lastUpdated": "2025-06-23T22:04:30.645Z"
   },
   {
     "name": "iPhone 16 Pro Max 256GB Natürel Titanyum - Vatan",
@@ -4655,7 +4659,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 91000,
     "currentPrice": 97999,
-    "lastUpdated": "2025-06-23T21:25:09.566Z"
+    "lastUpdated": "2025-06-23T22:04:31.150Z"
   },
   {
     "name": "iPhone 16 Pro Max 256GB Natürel Titanyum - Teknosa",
@@ -4665,7 +4669,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 91000,
     "currentPrice": 97999,
-    "lastUpdated": "2025-06-23T21:25:10.501Z"
+    "lastUpdated": "2025-06-23T22:04:32.173Z"
   },
   {
     "name": "iPhone 16 Pro Max 256GB Beyaz Titanyum - Trendyol",
@@ -4675,7 +4679,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 91000,
     "currentPrice": 97949,
-    "lastUpdated": "2025-06-23T21:25:10.818Z"
+    "lastUpdated": "2025-06-23T22:04:32.504Z"
   },
   {
     "name": "iPhone 16 Pro Max 256GB Beyaz Titanyum - Hepsiburada",
@@ -4691,7 +4695,9 @@
     "price_selector": "#corePrice_feature_div > div > div > span.a-price.aok-align-center > span.a-offscreen",
     "add_to_cart_selector": "input#add-to-cart-button",
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
-    "target_price": 91000
+    "target_price": 91000,
+    "currentPrice": 93999.6,
+    "lastUpdated": "2025-06-23T22:04:34.501Z"
   },
   {
     "name": "iPhone 16 Pro Max 256GB Beyaz Titanyum - N11",
@@ -4709,7 +4715,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 91000,
     "currentPrice": 97999,
-    "lastUpdated": "2025-06-23T21:25:13.023Z"
+    "lastUpdated": "2025-06-23T22:04:35.248Z"
   },
   {
     "name": "iPhone 16 Pro Max 256GB Beyaz Titanyum - Vatan",
@@ -4719,7 +4725,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 91000,
     "currentPrice": 97999,
-    "lastUpdated": "2025-06-23T21:25:13.468Z"
+    "lastUpdated": "2025-06-23T22:04:35.734Z"
   },
   {
     "name": "iPhone 16 Pro Max 256GB Beyaz Titanyum - Teknosa",
@@ -4729,7 +4735,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 91000,
     "currentPrice": 97999,
-    "lastUpdated": "2025-06-23T21:25:14.276Z"
+    "lastUpdated": "2025-06-23T22:04:36.574Z"
   },
   {
     "name": "iPhone 16 Pro Max 256GB Siyah Titanyum - Trendyol",
@@ -4739,7 +4745,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 91000,
     "currentPrice": 94350,
-    "lastUpdated": "2025-06-23T21:25:14.725Z"
+    "lastUpdated": "2025-06-23T22:04:36.918Z"
   },
   {
     "name": "iPhone 16 Pro Max 256GB Siyah Titanyum - Hepsiburada",
@@ -4773,7 +4779,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 91000,
     "currentPrice": 94349,
-    "lastUpdated": "2025-06-23T21:25:16.545Z"
+    "lastUpdated": "2025-06-23T22:04:37.902Z"
   },
   {
     "name": "iPhone 16 Pro Max 256GB Siyah Titanyum - Vatan",
@@ -4783,7 +4789,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 91000,
     "currentPrice": 94349,
-    "lastUpdated": "2025-06-23T21:25:16.949Z"
+    "lastUpdated": "2025-06-23T22:04:38.317Z"
   },
   {
     "name": "iPhone 16 Pro Max 256GB Siyah Titanyum - Teknosa",
@@ -4793,7 +4799,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 91000,
     "currentPrice": 97999,
-    "lastUpdated": "2025-06-23T21:25:17.739Z"
+    "lastUpdated": "2025-06-23T22:04:39.116Z"
   },
   {
     "name": "iPhone 16 Pro Max 512GB Cöl Titanyum - Trendyol",
@@ -4803,7 +4809,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 93000,
     "currentPrice": 106999,
-    "lastUpdated": "2025-06-23T21:25:18.053Z"
+    "lastUpdated": "2025-06-23T22:04:39.424Z"
   },
   {
     "name": "iPhone 16 Pro Max 512GB Cöl Titanyum - Hepsiburada",
@@ -4837,7 +4843,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 93000,
     "currentPrice": 106999,
-    "lastUpdated": "2025-06-23T21:25:19.162Z"
+    "lastUpdated": "2025-06-23T22:04:40.638Z"
   },
   {
     "name": "iPhone 16 Pro Max 512GB Cöl Titanyum - Vatan",
@@ -4847,7 +4853,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 93000,
     "currentPrice": 106999,
-    "lastUpdated": "2025-06-23T21:25:19.713Z"
+    "lastUpdated": "2025-06-23T22:04:41.013Z"
   },
   {
     "name": "iPhone 16 Pro Max 512GB Cöl Titanyum - Teknosa",
@@ -4857,7 +4863,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 93000,
     "currentPrice": 108699,
-    "lastUpdated": "2025-06-23T21:25:20.462Z"
+    "lastUpdated": "2025-06-23T22:04:41.757Z"
   },
   {
     "name": "iPhone 16 Pro Max 512GB Natürel Titanyum - Trendyol",
@@ -4867,7 +4873,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 93000,
     "currentPrice": 108499,
-    "lastUpdated": "2025-06-23T21:25:20.820Z"
+    "lastUpdated": "2025-06-23T22:04:42.136Z"
   },
   {
     "name": "iPhone 16 Pro Max 512GB Natürel Titanyum - Hepsiburada",
@@ -4901,7 +4907,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 93000,
     "currentPrice": 106999,
-    "lastUpdated": "2025-06-23T21:25:21.837Z"
+    "lastUpdated": "2025-06-23T22:04:43.219Z"
   },
   {
     "name": "iPhone 16 Pro Max 512GB Natürel Titanyum - Vatan",
@@ -4911,7 +4917,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 93000,
     "currentPrice": 106999,
-    "lastUpdated": "2025-06-23T21:25:22.306Z"
+    "lastUpdated": "2025-06-23T22:04:43.685Z"
   },
   {
     "name": "iPhone 16 Pro Max 512GB Natürel Titanyum - Teknosa",
@@ -4921,7 +4927,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 93000,
     "currentPrice": 108699,
-    "lastUpdated": "2025-06-23T21:25:23.294Z"
+    "lastUpdated": "2025-06-23T22:04:44.492Z"
   },
   {
     "name": "iPhone 16 Pro Max 512GB Beyaz Titanyum - Trendyol",
@@ -4931,7 +4937,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 93000,
     "currentPrice": 106999,
-    "lastUpdated": "2025-06-23T21:25:23.605Z"
+    "lastUpdated": "2025-06-23T22:04:44.829Z"
   },
   {
     "name": "iPhone 16 Pro Max 512GB Beyaz Titanyum - Hepsiburada",
@@ -4947,9 +4953,7 @@
     "price_selector": "#corePrice_feature_div > div > div > span.a-price.aok-align-center > span.a-offscreen",
     "add_to_cart_selector": "input#add-to-cart-button",
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
-    "target_price": 93000,
-    "currentPrice": 102699,
-    "lastUpdated": "2025-06-23T21:25:25.654Z"
+    "target_price": 93000
   },
   {
     "name": "iPhone 16 Pro Max 512GB Beyaz Titanyum - N11",
@@ -4967,7 +4971,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 93000,
     "currentPrice": 106999,
-    "lastUpdated": "2025-06-23T21:25:28.487Z"
+    "lastUpdated": "2025-06-23T22:04:45.955Z"
   },
   {
     "name": "iPhone 16 Pro Max 512GB Beyaz Titanyum - Vatan",
@@ -4977,7 +4981,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 93000,
     "currentPrice": 106999,
-    "lastUpdated": "2025-06-23T21:25:28.885Z"
+    "lastUpdated": "2025-06-23T22:04:46.434Z"
   },
   {
     "name": "iPhone 16 Pro Max 512GB Beyaz Titanyum - Teknosa",
@@ -4995,7 +4999,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 93000,
     "currentPrice": 106999,
-    "lastUpdated": "2025-06-23T21:25:29.963Z"
+    "lastUpdated": "2025-06-23T22:04:47.592Z"
   },
   {
     "name": "iPhone 16 Pro Max 512GB Siyah Titanyum - Hepsiburada",
@@ -5029,7 +5033,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 93000,
     "currentPrice": 106999,
-    "lastUpdated": "2025-06-23T21:25:32.183Z"
+    "lastUpdated": "2025-06-23T22:04:51.341Z"
   },
   {
     "name": "iPhone 16 Pro Max 512GB Siyah Titanyum - Vatan",
@@ -5039,7 +5043,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 93000,
     "currentPrice": 106999,
-    "lastUpdated": "2025-06-23T21:25:32.608Z"
+    "lastUpdated": "2025-06-23T22:04:51.689Z"
   },
   {
     "name": "iPhone 16 Pro Max 512GB Siyah Titanyum - Teknosa",
@@ -5049,7 +5053,7 @@
     "cart_url": "https://www.teknosa.com/sepetim",
     "target_price": 93000,
     "currentPrice": 108699,
-    "lastUpdated": "2025-06-23T21:25:33.483Z"
+    "lastUpdated": "2025-06-23T22:04:52.467Z"
   },
   {
     "name": "iPhone 16 Pro Max 1TB Cöl Titanyum - Trendyol",
@@ -5059,7 +5063,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 97000,
     "currentPrice": 121999,
-    "lastUpdated": "2025-06-23T21:25:33.800Z"
+    "lastUpdated": "2025-06-23T22:04:52.832Z"
   },
   {
     "name": "iPhone 16 Pro Max 1TB Cöl Titanyum - Hepsiburada",
@@ -5075,7 +5079,9 @@
     "price_selector": "#corePrice_feature_div > div > div > span.a-price.aok-align-center > span.a-offscreen",
     "add_to_cart_selector": "input#add-to-cart-button",
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
-    "target_price": 97000
+    "target_price": 97000,
+    "currentPrice": 119999,
+    "lastUpdated": "2025-06-23T22:04:54.798Z"
   },
   {
     "name": "iPhone 16 Pro Max 1TB Cöl Titanyum - N11",
@@ -5093,7 +5099,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 97000,
     "currentPrice": 119999,
-    "lastUpdated": "2025-06-23T21:25:36.418Z"
+    "lastUpdated": "2025-06-23T22:04:55.571Z"
   },
   {
     "name": "iPhone 16 Pro Max 1TB Cöl Titanyum - Vatan",
@@ -5103,7 +5109,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 97000,
     "currentPrice": 119999,
-    "lastUpdated": "2025-06-23T21:25:36.887Z"
+    "lastUpdated": "2025-06-23T22:04:55.977Z"
   },
   {
     "name": "iPhone 16 Pro Max 1TB Cöl Titanyum - Teknosa",
@@ -5121,7 +5127,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 97000,
     "currentPrice": 119307.99,
-    "lastUpdated": "2025-06-23T21:25:37.898Z"
+    "lastUpdated": "2025-06-23T22:04:57.024Z"
   },
   {
     "name": "iPhone 16 Pro Max 1TB Natürel Titanyum - Hepsiburada",
@@ -5155,7 +5161,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 97000,
     "currentPrice": 119999,
-    "lastUpdated": "2025-06-23T21:25:41.530Z"
+    "lastUpdated": "2025-06-23T22:04:59.108Z"
   },
   {
     "name": "iPhone 16 Pro Max 1TB Natürel Titanyum - Vatan",
@@ -5165,7 +5171,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 97000,
     "currentPrice": 119999,
-    "lastUpdated": "2025-06-23T21:25:41.993Z"
+    "lastUpdated": "2025-06-23T22:04:59.559Z"
   },
   {
     "name": "iPhone 16 Pro Max 1TB Natürel Titanyum - Teknosa",
@@ -5183,7 +5189,7 @@
     "cart_url": "https://www.trendyol.com/sepet",
     "target_price": 97000,
     "currentPrice": 111999,
-    "lastUpdated": "2025-06-23T21:25:43.255Z"
+    "lastUpdated": "2025-06-23T22:05:00.555Z"
   },
   {
     "name": "iPhone 16 Pro Max 1TB Beyaz Titanyum - Hepsiburada",
@@ -5217,7 +5223,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 97000,
     "currentPrice": 119999,
-    "lastUpdated": "2025-06-23T21:25:44.402Z"
+    "lastUpdated": "2025-06-23T22:05:01.436Z"
   },
   {
     "name": "iPhone 16 Pro Max 1TB Beyaz Titanyum - Vatan",
@@ -5227,7 +5233,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 97000,
     "currentPrice": 119999,
-    "lastUpdated": "2025-06-23T21:25:44.988Z"
+    "lastUpdated": "2025-06-23T22:05:01.955Z"
   },
   {
     "name": "iPhone 16 Pro Max 1TB Beyaz Titanyum - Teknosa",
@@ -5251,9 +5257,7 @@
     "price_selector": "#corePrice_feature_div > div > div > span.a-price.aok-align-center > span.a-offscreen",
     "add_to_cart_selector": "input#add-to-cart-button",
     "cart_url": "https://www.amazon.com.tr/gp/cart/view.html",
-    "target_price": 97000,
-    "currentPrice": 119999,
-    "lastUpdated": "2025-06-23T21:25:47.769Z"
+    "target_price": 97000
   },
   {
     "name": "iPhone 16 Pro Max 1TB Siyah Titanyum - N11",
@@ -5271,7 +5275,7 @@
     "cart_url": "https://www.mediamarkt.com.tr/tr/cart.html",
     "target_price": 97000,
     "currentPrice": 119999,
-    "lastUpdated": "2025-06-23T21:25:48.538Z"
+    "lastUpdated": "2025-06-23T22:05:05.050Z"
   },
   {
     "name": "iPhone 16 Pro Max 1TB Siyah Titanyum - Vatan",
@@ -5281,7 +5285,7 @@
     "cart_url": "https://www.vatanbilgisayar.com/sepetim",
     "target_price": 97000,
     "currentPrice": 119999,
-    "lastUpdated": "2025-06-23T21:25:49.001Z"
+    "lastUpdated": "2025-06-23T22:05:05.734Z"
   },
   {
     "name": "iPhone 16 Pro Max 1TB Siyah Titanyum - Teknosa",
