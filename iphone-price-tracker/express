@@ -1,0 +1,22 @@
+const express = require('express');
+const { fetchPrice } = require('./scraper'); // Fiyat çekme fonksiyonunu içe aktar
+
+const app = express();
+const port = 3000;
+
+// Fiyatları getirecek route
+app.get('/prices', async (req, res) => {
+  const url = 'https://www.akakce.com/iphone-16-pro-max-1tb-siyah-titanyum-fiyatlari'; // Akakçe ürün URL'si
+  
+  try {
+    const price = await fetchPrice(url);
+    res.send(`Ürünün fiyatı: ${price}`);
+  } catch (error) {
+    res.send('Fiyat çekilemedi. Hata: ' + error.message);
+  }
+});
+
+// Sunucuyu dinle
+app.listen(port, '0.0.0.0', () => {
+  console.log(`Sunucu http://185.149.103.159:${port} adresinde çalışıyor.`);
+});

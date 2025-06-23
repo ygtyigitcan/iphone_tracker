@@ -1,0 +1,27 @@
+const express = require('express');
+const { scrapeAkakcePrice } = require('./scraper'); // Scraper'ı dahil ediyoruz
+
+const app = express();
+const port = 3000;
+
+// Static dosyalar için public klasörünü kullanacağız
+app.use(express.static('public'));
+
+// Fiyat çekmek için API
+app.get('/scrape-price', async (req, res) => {
+  const url = req.query.url;  // Frontend'den gelen URL parametresi
+  if (!url) {
+    return res.status(400).json({ error: 'URL parametresi eksik!' });
+  }
+
+  try {
+    const price = await scrapeAkakcePrice(url);  // Fiyatı çekiyoruz
+    res.json({ price });  // Fiyatı JSON formatında frontend'e gönderiyoruz
+  } catch (error) {
+    res.status(500).json({ error: 'Fiyat alınamadı' });
+  }
+});
+
+app.listen(port, () => {
+  console.log(`Sunucu http://localhost:${port} adresinde çalışıyor`);
+});
